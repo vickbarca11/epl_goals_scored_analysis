@@ -1,0 +1,27 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12940,723750,1,44511540,70,Tómané (SC Farense) Goal at 7',Tómané Goal,1,420,7',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,151321,Tómané,2025-01-16 05:40:17
+12940,723750,2,44512156,76,André Seruca (SC Farense) Substitution at 34',André Seruca Substitution,1,2040,34',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,351548,André Seruca,2025-01-16 05:40:17
+12940,723750,2,44512156,76,André Seruca (SC Farense) Substitution at 34',André Seruca Substitution,1,2040,34',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,169992,Neto,2025-01-16 05:40:17
+12940,723750,3,44512368,76,Zeki Amdouni (Benfica) Substitution at 40',Zeki Amdouni Substitution,1,2400,40',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320757,Zeki Amdouni,2025-01-16 05:40:17
+12940,723750,3,44512368,76,Zeki Amdouni (Benfica) Substitution at 40',Zeki Amdouni Substitution,1,2400,40',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,108223,Ángel Di María,2025-01-16 05:40:17
+12940,723750,4,44512369,94,Raul (SC Farense) Yellow Card at 41',Raul Yellow Card,1,2460,41',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201704,Raul,2025-01-16 05:40:17
+12940,723750,5,44512664,94,Tomás Ribeiro (SC Farense) Yellow Card at 49',Tomás Ribeiro Yellow Card,1,2700,45'+4',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295853,Tomás Ribeiro,2025-01-16 05:40:17
+12940,723750,6,44513710,70,Andreas Schjelderup (Benfica) Goal at 56',Andreas Schjelderup Goal,2,3360,56',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,313415,Andreas Schjelderup,2025-01-16 05:40:17
+12940,723750,7,44513745,70,Arthur Cabral (Benfica) Goal at 58',Arthur Cabral Goal,2,3480,58',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224103,Arthur Cabral,2025-01-16 05:40:17
+12940,723750,8,44513806,70,Alexander Bah (Benfica) Goal at 62',Alexander Bah Goal,2,3720,62',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,265944,Alexander Bah,2025-01-16 05:40:17
+12940,723750,9,44513890,76,Darío Poveda (SC Farense) Substitution at 66',Darío Poveda Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,250929,Darío Poveda,2025-01-16 05:40:17
+12940,723750,10,44513891,76,Elves Baldé (SC Farense) Substitution at 66',Elves Baldé Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272584,Elves Baldé,2025-01-16 05:40:17
+12940,723750,11,44513892,76,Jaime Pinto (SC Farense) Substitution at 66',Jaime Pinto Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,233173,Jaime Pinto,2025-01-16 05:40:17
+12940,723750,10,44513891,76,Elves Baldé (SC Farense) Substitution at 66',Elves Baldé Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177746,Marco Matias,2025-01-16 05:40:17
+12940,723750,11,44513892,76,Jaime Pinto (SC Farense) Substitution at 66',Jaime Pinto Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,151321,Tómané,2025-01-16 05:40:17
+12940,723750,9,44513890,76,Darío Poveda (SC Farense) Substitution at 66',Darío Poveda Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,241303,Mehdi Merghem,2025-01-16 05:40:17
+12940,723750,12,44513952,76,Vangelis Pavlidis (Benfica) Substitution at 75',Vangelis Pavlidis Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,220819,Vangelis Pavlidis,2025-01-16 05:40:17
+12940,723750,13,44513953,76,Kerem Aktürkoglu (Benfica) Substitution at 75',Kerem Aktürkoglu Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,306789,Kerem Aktürkoglu,2025-01-16 05:40:17
+12940,723750,12,44513952,76,Vangelis Pavlidis (Benfica) Substitution at 75',Vangelis Pavlidis Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224103,Arthur Cabral,2025-01-16 05:40:17
+12940,723750,13,44513953,76,Kerem Aktürkoglu (Benfica) Substitution at 75',Kerem Aktürkoglu Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,313415,Andreas Schjelderup,2025-01-16 05:40:17
+12940,723750,14,44513968,76,Filipe Soares (SC Farense) Substitution at 77',Filipe Soares Substitution,2,4620,77',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,183972,Filipe Soares,2025-01-16 05:40:17
+12940,723750,14,44513968,76,Filipe Soares (SC Farense) Substitution at 77',Filipe Soares Substitution,2,4620,77',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,351548,André Seruca,2025-01-16 05:40:17
+12940,723750,15,44513999,76,Adrian Bajrami (Benfica) Substitution at 88',Adrian Bajrami Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338057,Adrian Bajrami,2025-01-16 05:40:17
+12940,723750,16,44514000,76,Benjamín Rollheiser (Benfica) Substitution at 88',Benjamín Rollheiser Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,269813,Benjamín Rollheiser,2025-01-16 05:40:17
+12940,723750,15,44513999,76,Adrian Bajrami (Benfica) Substitution at 88',Adrian Bajrami Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310637,Álvaro Carreras,2025-01-16 05:40:17
+12940,723750,16,44514000,76,Benjamín Rollheiser (Benfica) Substitution at 88',Benjamín Rollheiser Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212900,Fredrik Aursnes,2025-01-16 05:40:17
