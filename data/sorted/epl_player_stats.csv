@@ -1,0 +1,762 @@
+seasonType,year,seasonName,leagueId,leagueShortName,name,color,alternateColor,athleteId,fullName,weight,height,age,gender,jersey,positionAbbreviation,teamId,goalAssists_value,shotsOnTarget_value,totalShots_value,totalGoals_value,appearances_value,foulsCommitted_value,foulsSuffered_value,yellowCards_value,redCards_value
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,4946,Michael Keane,181.0,75.0,32.0,MALE,5.0,D,368,0,2,7,2,10,8,0,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,6327,Ben Davies,170.0,71.0,31.0,MALE,33.0,D,367,0,0,2,0,8,7,3,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,7441,Mark Travers,181.0,75.0,25.0,MALE,32.0,G,349,0,0,0,0,5,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,9426,Ben Johnson,148.0,69.0,25.0,MALE,18.0,D,373,1,2,2,0,15,15,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,17828,Adam Webster,163.0,75.0,30.0,MALE,4.0,D,331,0,1,1,0,7,2,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,17861,Danny Ward,192.0,75.0,31.0,MALE,1.0,G,375,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,20975,Julio Enciso,139.0,68.0,21.0,MALE,9.0,M,331,0,10,19,0,12,3,7,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,20975,Julio Enciso,139.0,68.0,21.0,MALE,9.0,M,373,1,13,26,0,15,5,11,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,26843,James Milner,152.0,69.0,39.0,MALE,6.0,M,331,0,0,2,0,3,3,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,30377,Álex Moreno,150.0,70.0,31.0,MALE,19.0,D,393,1,0,5,0,13,11,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,31810,Ashley Young,141.0,69.0,39.0,MALE,18.0,D,368,3,1,5,1,22,23,15,5,1
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,37557,Scott Carson,185.0,74.0,39.0,MALE,33.0,G,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,41311,Dan Potts,152.0,68.0,30.0,MALE,15.0,D,301,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,42250,Tom Heaton,185.0,74.0,38.0,MALE,22.0,G,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,42359,John Ruddy,212.0,76.0,38.0,MALE,26.0,G,361,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,43575,Matt Doherty,174.0,73.0,33.0,MALE,2.0,D,380,1,4,9,2,18,11,6,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,45548,Adam Rhys Davies,163.0,73.0,32.0,MALE,17.0,G,398,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,48128,Miguel Almirón,152.0,69.0,31.0,MALE,10.0,M,361,0,2,5,0,9,1,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,72487,David Brooks,137.0,68.0,27.0,MALE,7.0,M,349,0,9,19,2,18,6,12,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,77403,Lukasz Fabianski,183.0,75.0,39.0,MALE,1.0,G,371,0,0,0,0,13,2,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,78836,Carlos Forbs,137.0,67.0,20.0,MALE,26.0,F,380,0,0,3,0,9,2,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,83176,Jonny Evans,170.0,74.0,37.0,MALE,35.0,D,360,0,0,1,0,6,5,6,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,83526,Wayne Hennessey,196.0,78.0,38.0,MALE,13.0,G,393,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,85285,Tim Krul,183.0,76.0,36.0,MALE,23.0,G,301,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,85472,Adam Lallana,161.0,68.0,36.0,MALE,10.0,M,376,2,0,3,0,13,7,8,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,92885,Asmir Begovic,223.0,78.0,37.0,MALE,31.0,G,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,93193,Fraser Forster,203.0,79.0,36.0,MALE,20.0,G,367,0,0,0,0,7,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,93435,Ryan Christie,152.0,70.0,29.0,MALE,10.0,M,349,3,10,25,2,24,39,27,9,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,96970,Cristian Romero,172.0,73.0,26.0,MALE,17.0,D,367,0,4,11,1,12,7,9,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,100918,Jay Rodríguez,183.0,73.0,35.0,MALE,16.0,F,379,1,8,21,2,21,17,6,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,102053,Joe Gomez,174.0,74.0,27.0,MALE,2.0,D,364,0,2,4,0,9,2,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,102368,Evanilson,174.0,72.0,25.0,MALE,9.0,F,349,0,20,43,5,19,21,34,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,104943,Andrew Robertson,139.0,70.0,30.0,MALE,26.0,D,364,0,2,8,0,25,7,6,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,106139,Lewis Hall,161.0,70.0,20.0,MALE,20.0,D,361,3,2,12,0,25,8,19,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,107542,Alex McCarthy,172.0,76.0,35.0,MALE,1.0,G,376,0,0,0,0,5,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,108662,Robert Sánchez,196.0,78.0,27.0,MALE,1.0,G,363,0,0,0,0,21,2,2,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,111114,Jason Steele,172.0,74.0,34.0,MALE,23.0,G,331,0,0,0,0,2,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,115271,Danny Welbeck,161.0,73.0,34.0,MALE,18.0,F,331,4,12,40,6,19,7,19,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,121473,Aaron Cresswell,146.0,67.0,35.0,MALE,3.0,D,371,0,0,3,0,10,1,0,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,122268,Adam Smith,172.0,71.0,33.0,MALE,15.0,D,349,0,0,1,0,17,8,9,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,123518,Jordan Ayew,174.0,72.0,33.0,MALE,18.0,F,375,0,7,27,4,23,28,41,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,123518,Jordan Ayew,174.0,72.0,33.0,MALE,18.0,F,384,0,0,1,0,1,1,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,124091,Bruno Fernandes,146.0,70.0,30.0,MALE,8.0,M,360,6,17,64,5,24,20,29,3,2
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,126703,Martin Dúbravka,183.0,75.0,36.0,MALE,1.0,G,361,0,0,0,0,10,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,127865,Nathaniel Clyne,148.0,69.0,33.0,MALE,17.0,D,384,0,0,1,0,11,2,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,129358,Kyle Walker,174.0,72.0,34.0,MALE,32.0,D,382,0,2,5,0,15,6,5,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,129737,Michail Antonio,181.0,71.0,34.0,MALE,9.0,F,371,1,4,19,1,14,9,7,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,131424,Ilkay Gündogan,174.0,71.0,34.0,MALE,19.0,M,382,2,4,17,0,22,10,18,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,131639,Seamus Coleman,148.0,70.0,36.0,MALE,23.0,D,368,0,1,1,0,3,0,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,132432,Andros Townsend,170.0,71.0,33.0,MALE,25.0,F,301,3,7,20,1,27,12,12,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,133588,Ben Osborn,163.0,69.0,30.0,MALE,8.0,M,398,2,1,5,0,24,7,9,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,133938,Craig Dawson,181.0,74.0,34.0,MALE,15.0,D,380,0,3,7,0,15,6,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,134190,Chris Wood,179.0,75.0,33.0,MALE,11.0,F,393,2,26,44,18,25,15,16,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,134205,Jóhann Gudmundsson,172.0,73.0,34.0,MALE,7.0,M,379,3,6,15,1,26,9,20,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,134909,Thomas Kaminski,181.0,75.0,32.0,MALE,24.0,G,301,0,0,0,0,38,0,3,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,134947,Kevin De Bruyne,150.0,71.0,33.0,MALE,17.0,M,382,6,8,33,2,17,9,11,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,136571,Joel Ward,183.0,74.0,35.0,MALE,2.0,D,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,138159,Ben Mee,161.0,71.0,35.0,MALE,16.0,D,337,0,0,0,0,6,5,0,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,138398,Neto,183.0,75.0,35.0,MALE,32.0,G,349,0,0,0,0,2,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,138398,Neto,183.0,75.0,35.0,MALE,32.0,G,359,0,0,0,0,2,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,138507,Luke Berry,159.0,70.0,32.0,MALE,8.0,M,301,1,4,7,2,17,6,7,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,138821,Charlie Taylor,152.0,69.0,31.0,MALE,21.0,D,376,0,0,0,0,7,2,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,138821,Charlie Taylor,152.0,69.0,31.0,MALE,21.0,D,379,1,1,10,1,28,19,16,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,138879,Sam Morsy,152.0,69.0,33.0,MALE,5.0,M,373,1,1,8,1,22,34,18,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,138924,Callum Wilson,146.0,71.0,32.0,MALE,9.0,F,361,0,0,0,0,5,1,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,139744,Jack Taylor,152.0,73.0,26.0,MALE,-1.0,M,373,0,4,11,1,19,9,2,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,140033,Tom Cairney,183.0,73.0,34.0,MALE,10.0,M,370,0,1,4,1,17,6,14,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,141147,James Shea,168.0,73.0,33.0,MALE,1.0,G,301,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,141188,Josh King,161.0,74.0,18.0,MALE,13.0,M,370,0,0,1,0,5,2,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,141706,Danny Ings,161.0,70.0,32.0,MALE,18.0,F,371,2,5,13,1,14,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,142055,Bobby De Cordova-Reid,150.0,67.0,32.0,MALE,14.0,F,375,2,3,7,1,17,7,9,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,143007,Daniel Bentley,161.0,74.0,31.0,MALE,25.0,G,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,143378,Oliver Norwood,163.0,71.0,33.0,MALE,26.0,M,398,0,6,14,1,27,15,9,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,143637,Kieran Trippier,157.0,70.0,34.0,MALE,2.0,D,361,0,0,1,0,15,12,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,144130,Christian Eriksen,168.0,72.0,33.0,MALE,14.0,M,360,1,0,3,0,13,5,2,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,144517,Idrissa Gueye,146.0,69.0,35.0,MALE,27.0,M,368,2,3,20,0,24,36,31,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,146091,Nathan Redmond,150.0,68.0,30.0,MALE,15.0,M,379,0,0,0,0,12,4,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,146566,George Baldock,157.0,70.0,31.0,MALE,32.0,D,398,1,0,1,0,13,19,14,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,146679,Daniel Muñoz,161.0,71.0,28.0,MALE,12.0,D,384,3,9,22,2,24,30,15,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,147106,Lewis Dunk,192.0,76.0,33.0,MALE,5.0,D,331,0,3,11,0,19,5,8,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,147255,Jack Robinson,148.0,71.0,31.0,MALE,19.0,D,398,2,7,14,1,34,18,16,10,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,148987,Alphonse Areola,205.0,77.0,31.0,MALE,23.0,G,371,0,1,1,0,14,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,149945,Son Heung-Min,172.0,72.0,32.0,MALE,7.0,F,367,7,21,44,6,22,4,22,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,151855,Stefan Ortega,192.0,73.0,32.0,MALE,18.0,G,382,0,0,0,0,9,1,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,152349,Willy Boly,203.0,77.0,34.0,MALE,30.0,D,393,0,1,1,0,5,1,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,152469,Ross Barkley,168.0,74.0,31.0,MALE,6.0,M,301,4,18,67,5,32,25,40,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,152469,Ross Barkley,168.0,74.0,31.0,MALE,6.0,M,362,1,4,14,3,16,9,3,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,152475,Jack Stephens,163.0,73.0,31.0,MALE,5.0,D,376,0,0,2,0,11,8,2,2,2
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,152479,Wataru Endo,168.0,70.0,31.0,MALE,3.0,M,364,0,0,0,0,11,9,6,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,153012,Ryan Fraser,152.0,64.0,30.0,MALE,24.0,M,376,0,1,1,0,8,1,4,0,1
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,153570,Cauley Woodrow,172.0,72.0,30.0,MALE,10.0,F,301,1,3,16,1,24,8,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,153765,Bernd Leno,181.0,74.0,32.0,MALE,1.0,G,370,1,0,0,0,25,0,3,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,154514,Pablo Sarabia,152.0,69.0,32.0,MALE,21.0,M,380,1,5,9,1,11,9,10,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,154595,Mateo Kovacic,172.0,70.0,30.0,MALE,8.0,M,382,1,6,30,4,21,17,18,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,155211,Jannik Vestergaard,205.0,78.0,32.0,MALE,23.0,D,375,0,1,2,0,16,12,4,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,155226,James Tarkowski,179.0,73.0,32.0,MALE,6.0,D,368,1,4,12,1,25,26,18,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,156365,Conor Coady,174.0,73.0,31.0,MALE,4.0,D,375,0,0,0,0,10,3,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,156366,Raheem Sterling,150.0,68.0,30.0,MALE,30.0,F,359,1,0,8,0,10,6,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,156366,Raheem Sterling,150.0,68.0,30.0,MALE,30.0,F,363,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,156799,Richarlison,183.0,72.0,27.0,MALE,9.0,F,367,1,3,7,2,9,4,7,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,157073,Harry Maguire,196.0,76.0,31.0,MALE,5.0,D,360,0,1,5,0,18,13,5,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,157236,Wes Foderingham,163.0,73.0,34.0,MALE,21.0,G,371,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,157236,Wes Foderingham,163.0,73.0,34.0,MALE,21.0,G,398,0,1,1,0,30,0,12,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,157473,Jordan Clark,157.0,72.0,31.0,MALE,18.0,M,301,1,3,16,1,23,12,26,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,157892,Virgil van Dijk,203.0,77.0,33.0,MALE,4.0,D,364,1,5,19,1,26,10,9,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,157974,John Stones,174.0,74.0,30.0,MALE,5.0,D,382,0,2,2,2,11,2,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,158626,Emiliano Martínez,192.0,77.0,32.0,MALE,23.0,G,362,0,0,0,0,26,1,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,159051,Emerson,139.0,69.0,30.0,MALE,33.0,D,371,1,5,12,2,23,18,11,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,159135,Odisseas Vlachodimos,172.0,74.0,30.0,MALE,19.0,G,361,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,159248,Nathan Aké,163.0,71.0,30.0,MALE,6.0,D,382,0,0,3,0,9,2,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,159443,Jordan Pickford,181.0,73.0,30.0,MALE,1.0,G,368,1,0,0,0,25,0,6,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,160115,Lucas Digne,161.0,70.0,31.0,MALE,12.0,D,362,4,2,12,0,26,17,12,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,161715,Nick Pope,168.0,75.0,32.0,MALE,22.0,G,361,0,0,0,0,15,0,0,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,162338,Sam Johnstone,185.0,76.0,31.0,MALE,31.0,G,380,0,0,0,0,7,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,162338,Sam Johnstone,185.0,76.0,31.0,MALE,31.0,G,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,162843,John McGinn,150.0,70.0,30.0,MALE,7.0,M,362,3,2,21,0,22,27,44,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,163111,James Ward-Prowse,146.0,68.0,30.0,MALE,8.0,M,371,1,0,3,0,11,6,2,1,1
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,163111,James Ward-Prowse,146.0,68.0,30.0,MALE,8.0,M,393,1,0,2,0,10,6,2,1,1
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,165266,Massimo Luongo,146.0,69.0,32.0,MALE,25.0,M,373,0,0,0,0,7,1,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,165648,Jamie Vardy,161.0,70.0,38.0,MALE,9.0,F,375,3,15,39,7,23,15,13,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,165778,Jorginho,141.0,71.0,33.0,MALE,20.0,M,359,0,0,1,0,11,8,12,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,167060,Raúl Jiménez,168.0,75.0,33.0,MALE,7.0,F,370,3,25,68,9,25,25,28,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,167127,Luke Shaw,174.0,70.0,29.0,MALE,23.0,D,360,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,168309,Conor Townsend,137.0,72.0,31.0,MALE,22.0,D,373,0,0,0,0,3,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,168421,Will Hughes,161.0,73.0,29.0,MALE,19.0,M,384,3,1,14,0,22,44,23,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,168424,John Egan,163.0,73.0,32.0,MALE,15.0,D,398,0,1,2,0,6,5,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,168746,Christian Walton,163.0,77.0,29.0,MALE,28.0,G,373,0,0,0,0,6,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,169338,Pelly Ruddock Mpanzu,139.0,69.0,30.0,MALE,25.0,M,301,0,1,10,0,27,9,14,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,169532,Kepa Arrizabalaga,183.0,74.0,30.0,MALE,13.0,G,349,0,0,0,0,18,0,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,170257,Niclas Füllkrug,183.0,74.0,32.0,MALE,11.0,F,371,1,3,8,2,9,9,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,170597,Joël Veltman,163.0,72.0,33.0,MALE,34.0,D,331,0,0,6,0,19,21,42,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,171144,Ricardo Pereira,152.0,69.0,31.0,MALE,21.0,D,375,0,0,0,0,2,1,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,172833,Harry Toffolo,157.0,72.0,29.0,MALE,15.0,D,393,0,0,1,0,3,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,172836,Jacob Murphy,161.0,70.0,29.0,MALE,23.0,M,361,8,9,27,4,22,7,6,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,172850,Jack Grealish,170.0,71.0,29.0,MALE,10.0,M,382,1,4,12,0,15,3,21,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,172922,Emil Krafth,183.0,72.0,30.0,MALE,17.0,D,361,0,0,1,0,4,3,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,173666,Casemiro,183.0,73.0,32.0,MALE,18.0,M,360,0,6,21,1,15,11,17,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,173896,Mohamed Salah,157.0,69.0,32.0,MALE,11.0,F,364,15,46,93,24,26,15,31,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,174980,Leandro Trossard,132.0,68.0,30.0,MALE,19.0,F,359,5,11,33,4,25,11,25,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,175063,Alex Iwobi,163.0,71.0,28.0,MALE,17.0,F,370,3,21,49,7,25,12,15,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,176562,Abdoulaye Doucouré,163.0,72.0,32.0,MALE,16.0,M,368,0,3,15,1,22,35,4,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,176948,Ederson,190.0,74.0,31.0,MALE,31.0,G,382,3,0,0,0,16,1,0,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,177545,Marcus Bettinelli,181.0,76.0,32.0,MALE,13.0,G,363,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,177821,Mark Flekken,192.0,77.0,31.0,MALE,1.0,G,337,1,0,0,0,24,0,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,178077,Christian Nørgaard,161.0,74.0,30.0,MALE,6.0,M,337,2,7,21,2,22,29,21,4,1
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,178176,Robin Olsen,194.0,78.0,35.0,MALE,25.0,G,362,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,178487,Willian,170.0,69.0,36.0,MALE,22.0,F,370,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,178760,Neal Maupay,150.0,68.0,28.0,MALE,8.0,F,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,179233,Fabian Schär,183.0,73.0,33.0,MALE,5.0,D,361,0,5,20,2,21,19,8,5,1
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,179497,Matz Sels,163.0,74.0,32.0,MALE,26.0,G,393,0,0,0,0,25,0,7,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,181278,José Sá,183.0,76.0,32.0,MALE,1.0,G,380,0,0,0,0,18,3,6,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,181312,Tyrone Mings,170.0,77.0,31.0,MALE,5.0,D,362,0,0,5,0,8,2,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,181516,Wes Burns,150.0,68.0,30.0,MALE,7.0,F,373,1,1,8,0,18,3,11,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,181729,Mario Lemina,185.0,72.0,31.0,MALE,99.0,M,380,3,5,18,1,17,17,8,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,187411,Maxwel Cornet,150.0,70.0,28.0,MALE,70.0,F,376,0,0,1,0,2,0,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,187638,Wilfred Ndidi,161.0,72.0,28.0,MALE,6.0,M,375,4,6,13,0,16,25,7,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,189007,Reece James,181.0,72.0,25.0,MALE,24.0,D,363,0,1,4,1,9,4,6,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,189972,Thomas Partey,170.0,73.0,31.0,MALE,5.0,M,359,2,6,21,3,24,31,24,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,190257,Curtis Jones,172.0,73.0,24.0,MALE,17.0,M,364,3,10,21,3,21,11,19,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,190931,Joe Lumley,161.0,75.0,30.0,MALE,13.0,G,376,0,0,0,0,3,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,190962,Fred Onyedinma,152.0,73.0,28.0,MALE,44.0,M,301,0,2,5,0,8,10,6,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,190974,Kenny Tete,157.0,71.0,29.0,MALE,2.0,D,370,2,2,19,0,15,22,12,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,191026,Marcus Myers-Harness,152.0,72.0,28.0,MALE,18.0,M,373,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,191088,Timo Werner,163.0,71.0,28.0,MALE,16.0,F,367,3,3,8,0,17,3,5,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,191209,Vladimír Coufal,168.0,69.0,32.0,MALE,5.0,D,371,0,2,5,0,15,17,10,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,192034,Amari'i Bell,146.0,71.0,30.0,MALE,3.0,D,301,0,2,2,0,21,22,16,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,192278,Diego Gómez,170.0,72.0,21.0,MALE,25.0,M,331,0,0,0,0,3,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,192660,Philip Billing,183.0,76.0,28.0,MALE,15.0,M,349,0,1,5,0,10,3,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,192929,Matt Targett,152.0,72.0,29.0,MALE,13.0,D,361,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,193010,Oliver McBurnie,172.0,74.0,28.0,MALE,16.0,F,398,3,15,34,6,21,19,27,5,2
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,193246,Harrison Reed,159.0,71.0,30.0,MALE,6.0,M,370,0,1,2,0,9,5,2,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,193297,Youri Tielemans,159.0,69.0,27.0,MALE,8.0,M,362,4,6,25,2,26,33,43,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,194108,Max Lowe,161.0,69.0,27.0,MALE,3.0,D,398,1,0,2,0,10,7,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,194115,Dominic Solanke,174.0,74.0,27.0,MALE,19.0,F,367,3,20,47,7,18,25,28,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,194116,Adam Armstrong,150.0,68.0,28.0,MALE,32.0,F,376,2,7,25,2,20,12,5,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,194450,James Maddison,161.0,69.0,28.0,MALE,10.0,M,367,4,17,35,9,23,23,48,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,194557,Josh Brownhill,150.0,71.0,29.0,MALE,8.0,M,379,2,11,28,4,33,38,24,4,1
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,194686,Taiwo Awoniyi,183.0,72.0,27.0,MALE,9.0,F,393,0,4,9,1,19,7,7,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,194778,Ivo Grbic,183.0,77.0,29.0,MALE,30.0,G,398,0,0,0,0,9,0,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,194801,Harry Wilson,139.0,68.0,27.0,MALE,8.0,M,370,1,9,27,5,19,9,15,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,194823,Carlton Morris,185.0,73.0,29.0,MALE,9.0,F,301,4,31,74,11,38,44,43,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,195816,Lawrence Vigouroux,170.0,76.0,31.0,MALE,22.0,G,379,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,195821,Marco Asensio,168.0,72.0,29.0,MALE,21.0,F,362,0,1,4,0,2,2,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,196081,Joachim Andersen,190.0,76.0,28.0,MALE,5.0,D,370,0,3,10,0,17,16,11,4,1
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,196081,Joachim Andersen,190.0,76.0,28.0,MALE,5.0,D,384,0,1,1,0,1,2,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,196176,David Raya,174.0,72.0,29.0,MALE,22.0,G,359,0,0,0,0,25,1,6,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,196860,Diego Carlos,172.0,73.0,31.0,MALE,33.0,D,362,0,1,4,0,10,11,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,196876,Alisson Becker,201.0,76.0,32.0,MALE,1.0,G,364,0,0,0,0,18,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,197163,Timothy Castagne,174.0,73.0,29.0,MALE,21.0,D,370,1,1,4,0,15,9,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,197399,Jefferson Lerma,152.0,70.0,30.0,MALE,8.0,M,384,0,6,19,0,20,19,26,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,197717,Dominic Calvert-Lewin,157.0,74.0,27.0,MALE,9.0,F,368,1,17,46,3,22,25,22,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,197924,Reece Burke,179.0,74.0,28.0,MALE,16.0,D,301,4,3,12,0,22,19,12,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,198138,Dan Burn,192.0,78.0,32.0,MALE,33.0,D,361,0,5,17,0,24,18,9,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,198825,Ollie Watkins,163.0,71.0,29.0,MALE,11.0,F,362,6,28,65,12,26,25,26,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,199833,Bernardo Silva,141.0,68.0,30.0,MALE,20.0,M,382,4,8,24,2,23,16,21,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,199850,Jack Harrison,152.0,69.0,28.0,MALE,11.0,F,368,0,4,18,0,21,8,19,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,200911,Joseph Johnson,139.0,74.0,19.0,MALE,38.0,D,301,0,0,0,0,2,1,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,201089,Jarrod Bowen,152.0,69.0,28.0,MALE,20.0,F,371,4,23,53,6,21,15,28,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,201304,Morato,192.0,76.0,23.0,MALE,4.0,D,393,0,0,1,0,18,7,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,202232,Joelinton,179.0,73.0,28.0,MALE,7.0,F,361,1,11,40,4,23,46,27,9,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,202332,Harry Winks,141.0,70.0,29.0,MALE,8.0,M,375,2,3,9,0,19,9,12,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,203669,Martin Ødegaard,150.0,70.0,26.0,MALE,8.0,M,359,3,8,24,2,17,8,15,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,204082,Guglielmo Vicario,183.0,76.0,28.0,MALE,1.0,G,367,0,0,0,0,13,0,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,204286,James Bree,161.0,70.0,27.0,MALE,14.0,D,376,1,0,3,0,12,2,4,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,204661,Marvelous Nakamba,157.0,70.0,31.0,MALE,13.0,M,301,0,0,4,0,13,23,9,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,204679,Victor Lindelöf,174.0,74.0,30.0,MALE,2.0,D,360,0,0,0,0,5,2,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,205081,Jack Fletcher,172.0,71.0,17.0,MALE,57.0,M,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,205646,Jeff Schlupp,159.0,70.0,32.0,MALE,15.0,M,384,0,1,4,0,12,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,205981,Remi Matthews,172.0,72.0,31.0,MALE,31.0,G,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,206173,Kristoffer Ajer,203.0,78.0,26.0,MALE,20.0,D,337,0,2,4,0,12,8,5,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,206227,Ola Aina,181.0,72.0,28.0,MALE,34.0,D,393,1,2,7,2,25,15,28,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,206761,Rico Henry,148.0,67.0,27.0,MALE,3.0,D,337,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,207146,Josh Cullen,152.0,69.0,28.0,MALE,24.0,M,379,3,5,16,2,25,23,49,9,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,207350,Cameron Burgess,203.0,76.0,29.0,MALE,15.0,D,373,1,1,10,0,10,2,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,207592,Mason Holgate,139.0,72.0,28.0,MALE,3.0,D,368,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,207592,Mason Holgate,139.0,72.0,28.0,MALE,3.0,D,398,0,0,3,0,10,8,4,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,208133,Diogo Jota,150.0,70.0,28.0,MALE,20.0,F,364,3,10,34,5,16,14,9,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,209485,Sam Curtis,0.0,0.0,19.0,MALE,37.0,D,398,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,209581,Mikel Merino,183.0,74.0,28.0,MALE,23.0,M,359,1,7,17,4,17,20,12,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,210143,Andreas Pereira,157.0,70.0,29.0,MALE,18.0,M,370,2,7,25,2,22,16,16,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,211756,Conor Chaplin,152.0,66.0,28.0,MALE,10.0,F,373,1,3,11,1,15,9,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,212185,Guido Rodríguez,174.0,73.0,30.0,MALE,24.0,M,371,0,1,8,0,19,14,11,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,212953,Ben Godfrey,161.0,72.0,27.0,MALE,44.0,D,373,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,213141,Goncalo Guedes,150.0,70.0,28.0,MALE,29.0,F,380,4,7,18,2,22,14,14,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,213718,Ibrahim Sangaré,170.0,75.0,27.0,MALE,6.0,M,393,1,1,1,0,5,6,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,213924,Daniel Podence,128.0,65.0,29.0,MALE,56.0,F,380,0,0,1,0,2,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,214375,Emiliano Buendía,159.0,68.0,28.0,MALE,16.0,M,362,0,0,5,0,12,3,6,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,214562,Manuel Akanji,201.0,73.0,29.0,MALE,25.0,D,382,0,1,10,0,20,16,9,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,214689,Pervis Estupiñán,161.0,69.0,27.0,MALE,30.0,D,331,1,2,14,0,18,24,12,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,214794,Kieran Tierney,152.0,70.0,27.0,MALE,3.0,D,359,0,0,0,0,3,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,215340,André Onana,203.0,75.0,28.0,MALE,24.0,G,360,0,0,0,0,25,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,215716,Jacob Brown,137.0,70.0,26.0,MALE,19.0,F,301,0,6,25,2,19,19,19,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,215772,Rodrigo Bentancur,159.0,74.0,27.0,MALE,30.0,M,367,1,3,16,2,15,20,4,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,216120,Benson Manuel,150.0,70.0,27.0,MALE,10.0,F,379,0,2,4,0,8,1,4,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,217289,Gabriel Jesus,161.0,69.0,27.0,MALE,9.0,F,359,0,6,17,3,17,13,10,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,217482,Oleksandr Zinchenko,139.0,69.0,28.0,MALE,17.0,D,359,0,0,1,0,8,7,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,218122,Enes Ünal,172.0,74.0,27.0,MALE,26.0,F,349,1,7,20,2,17,6,9,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,218188,Rob Holding,179.0,74.0,29.0,MALE,5.0,D,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,218522,Bruno Guimarães,161.0,72.0,27.0,MALE,39.0,M,361,6,6,29,2,25,35,83,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,218998,Sander Berge,212.0,77.0,27.0,MALE,16.0,M,370,0,0,2,0,18,16,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,218998,Sander Berge,212.0,77.0,27.0,MALE,16.0,M,379,2,3,25,1,37,39,19,9,1
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,219362,Daichi Kamada,168.0,72.0,28.0,MALE,18.0,M,384,0,4,13,0,21,19,12,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,219390,Alex Palmer,159.0,75.0,28.0,MALE,31.0,G,373,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,220626,Adama Traoré,190.0,70.0,29.0,MALE,11.0,F,370,5,9,30,2,24,18,25,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,221738,Paul Onuachu,214.0,79.0,30.0,MALE,32.0,F,376,1,8,22,2,15,19,11,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,221788,Jan Bednarek,183.0,74.0,28.0,MALE,35.0,D,376,0,2,5,2,21,26,9,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,222176,Christopher Nkunku,150.0,70.0,27.0,MALE,18.0,F,363,1,6,15,2,21,10,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,222180,Odsonne Édouard,183.0,74.0,27.0,MALE,29.0,F,375,0,1,5,0,6,6,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,222180,Odsonne Édouard,183.0,74.0,27.0,MALE,29.0,F,384,0,1,5,0,2,4,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,222300,Sasa Lukic,168.0,72.0,28.0,MALE,20.0,M,370,2,1,11,0,20,42,21,9,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,222396,Antonee Robinson,152.0,72.0,27.0,MALE,33.0,D,370,10,2,16,0,25,24,17,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,222670,Nélson Semedo,150.0,70.0,31.0,MALE,22.0,D,380,3,5,10,0,21,36,17,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,222776,Tyler Adams,159.0,68.0,26.0,MALE,12.0,M,349,3,1,5,0,15,20,10,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,223445,Solly March,192.0,71.0,30.0,MALE,7.0,M,331,0,0,1,0,2,0,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,223452,Lewis Cook,157.0,69.0,28.0,MALE,4.0,M,349,3,3,11,1,24,41,4,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,223453,Kalvin Phillips,159.0,70.0,29.0,MALE,8.0,M,373,0,1,7,0,14,25,17,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,223453,Kalvin Phillips,159.0,70.0,29.0,MALE,8.0,M,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,223532,Trent Alexander-Arnold,148.0,69.0,26.0,MALE,66.0,D,364,6,5,33,2,25,9,6,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,223547,Sammie Szmodics,139.0,66.0,29.0,MALE,23.0,M,373,0,12,21,4,18,8,8,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,223919,Sam Edmundson,163.0,75.0,27.0,MALE,25.0,D,373,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,224077,Yoane Wissa,161.0,69.0,28.0,MALE,11.0,M,337,2,24,53,11,22,18,31,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,224809,Leon Bailey,170.0,70.0,27.0,MALE,31.0,M,362,2,4,24,1,20,10,18,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,225426,Ben Chilwell,170.0,70.0,28.0,MALE,25.0,D,384,0,1,1,0,1,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,225549,Stephy Mavididi,157.0,72.0,26.0,MALE,10.0,F,375,1,6,22,3,23,14,14,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,225564,Vitaly Janelt,172.0,72.0,26.0,MALE,27.0,M,337,3,5,13,1,24,21,12,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,226125,Joe Aribo,168.0,72.0,28.0,MALE,7.0,M,376,0,6,15,3,24,16,24,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,226177,Kostas Tsimikas,170.0,70.0,28.0,MALE,21.0,D,364,1,0,1,0,11,6,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,227472,Mathias Jensen,159.0,71.0,29.0,MALE,42.0,M,337,1,1,7,0,15,6,10,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,227706,Luke Thomas,157.0,71.0,23.0,MALE,33.0,D,375,0,0,1,0,2,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,227784,Trevoh Chalobah,163.0,75.0,25.0,MALE,23.0,D,363,1,3,13,3,16,14,17,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,227784,Trevoh Chalobah,163.0,75.0,25.0,MALE,23.0,D,384,0,3,10,3,12,10,15,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,227794,Reiss Nelson,157.0,69.0,25.0,MALE,19.0,F,359,0,0,0,0,1,1,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,227794,Reiss Nelson,157.0,69.0,25.0,MALE,19.0,F,370,1,6,12,1,12,7,10,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,228421,Wout Faes,183.0,74.0,26.0,MALE,3.0,D,375,0,1,9,1,22,14,5,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,228424,Orel Mangala,174.0,70.0,26.0,MALE,8.0,M,368,0,5,16,1,19,24,17,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,228498,Alfie Whiteman,183.0,74.0,26.0,MALE,41.0,G,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,228563,Boubacar Traoré,148.0,72.0,23.0,MALE,6.0,M,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,228619,Auston Trusty,183.0,75.0,26.0,MALE,6.0,D,398,0,2,8,0,32,23,13,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,229524,Axel Tuanzebe,163.0,73.0,27.0,MALE,40.0,D,373,0,0,3,0,13,8,8,4,1
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,229967,Max Kilman,194.0,76.0,27.0,MALE,26.0,D,371,1,2,11,0,25,9,8,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,230666,Tomás Soucek,190.0,76.0,29.0,MALE,28.0,M,371,1,9,36,5,23,33,17,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,230945,Marcus Rashford,152.0,71.0,27.0,MALE,10.0,F,360,1,8,16,4,15,8,7,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,230945,Marcus Rashford,152.0,71.0,27.0,MALE,10.0,F,362,1,9,21,4,17,8,9,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,230963,Issa Diop,203.0,76.0,28.0,MALE,31.0,D,370,0,3,6,0,17,7,3,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,231049,Fabio Carvalho,163.0,71.0,30.0,MALE,14.0,M,337,1,4,10,1,18,5,10,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,231167,Mason Mount,168.0,71.0,26.0,MALE,7.0,M,360,0,2,3,0,8,8,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,231182,Kai Havertz,183.0,76.0,25.0,MALE,29.0,F,359,3,21,52,9,21,34,21,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,231198,Tosin Adarabioyo,174.0,77.0,27.0,MALE,4.0,D,363,0,2,9,1,12,5,2,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,231241,Sergio Reguilón,150.0,70.0,28.0,MALE,3.0,D,367,0,0,1,0,3,2,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,231718,Axel Disasi,183.0,75.0,26.0,MALE,3.0,D,362,0,1,2,1,8,3,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,231718,Axel Disasi,183.0,75.0,26.0,MALE,3.0,D,363,0,1,2,1,6,2,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,231828,Rodri,181.0,75.0,28.0,MALE,16.0,M,382,0,0,0,0,2,1,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,231859,Ezri Konsa,161.0,72.0,27.0,MALE,4.0,D,362,0,2,5,1,22,3,31,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,231863,James Justin,174.0,72.0,26.0,MALE,2.0,D,375,1,6,23,2,24,16,28,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,232662,Patson Daka,157.0,72.0,26.0,MALE,20.0,F,375,0,2,9,1,13,4,9,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,232810,Yves Bissouma,174.0,72.0,28.0,MALE,8.0,M,367,0,3,7,2,19,16,14,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,233073,Jacob Bruun Larsen,170.0,72.0,26.0,MALE,25.0,F,379,0,11,44,6,32,13,7,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,233301,Daniel Iversen,174.0,76.0,27.0,MALE,31.0,G,375,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,233937,Lisandro Martínez,159.0,69.0,27.0,MALE,6.0,D,360,1,6,16,2,20,22,7,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,233945,Marcos Senesi,174.0,73.0,27.0,MALE,5.0,D,349,0,0,3,0,11,16,7,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,234143,Igor Julio,185.0,73.0,27.0,MALE,3.0,D,331,0,0,1,0,12,9,6,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,234172,Dean Henderson,185.0,74.0,27.0,MALE,1.0,G,384,0,0,1,0,25,0,0,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,234306,Federico Chiesa,152.0,69.0,27.0,MALE,14.0,F,364,0,0,1,0,3,1,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,234320,Hamza Choudhury,139.0,70.0,27.0,MALE,24.0,M,375,0,0,0,0,4,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,234698,Matty Cash,172.0,73.0,27.0,MALE,2.0,D,362,1,4,7,1,17,19,10,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,234715,Lucas Paquetá,159.0,71.0,27.0,MALE,10.0,M,371,0,5,36,4,23,35,37,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,234878,Rúben Dias,168.0,74.0,27.0,MALE,3.0,D,382,0,4,14,0,14,6,4,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,235072,Carlos Soler,168.0,71.0,28.0,MALE,4.0,M,371,1,3,17,1,20,21,11,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,235116,Luis Sinisterra,130.0,68.0,25.0,MALE,17.0,F,349,1,5,11,1,9,3,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,235129,Kyle Walker-Peters,137.0,68.0,27.0,MALE,2.0,D,376,2,5,18,0,23,21,34,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,235662,Alexander Isak,170.0,76.0,25.0,MALE,14.0,F,361,5,31,63,17,23,16,11,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,236015,Aaron Ramsdale,192.0,75.0,26.0,MALE,30.0,G,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,236015,Aaron Ramsdale,192.0,75.0,26.0,MALE,30.0,G,376,0,0,0,0,17,0,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,236322,Gabriel Magalhães,172.0,75.0,27.0,MALE,6.0,D,359,1,5,20,3,23,16,15,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,236457,Mads Andersen,179.0,76.0,27.0,MALE,5.0,D,301,0,1,3,1,8,6,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,236912,Gustavo Hamer,132.0,67.0,27.0,MALE,8.0,M,398,6,9,47,4,36,50,17,9,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,237224,Hwang Hee-Chan,170.0,70.0,29.0,MALE,11.0,F,380,0,3,5,2,17,6,8,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,238004,Takehiro Tomiyasu,183.0,74.0,26.0,MALE,18.0,D,359,0,0,1,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,238192,Chiedozie Ogbene,172.0,71.0,27.0,MALE,21.0,F,301,1,14,35,4,30,6,50,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,238192,Chiedozie Ogbene,172.0,71.0,27.0,MALE,21.0,F,373,0,0,0,0,5,2,7,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,238262,Declan Rice,183.0,74.0,26.0,MALE,41.0,M,359,5,8,25,1,23,16,13,4,1
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,238318,Ferdi Kadioglu,150.0,69.0,25.0,MALE,24.0,M,331,0,1,4,1,6,5,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,238472,Elliot Anderson,150.0,70.0,22.0,MALE,8.0,M,393,5,5,26,1,24,26,38,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,238902,Diogo Dalot,172.0,72.0,25.0,MALE,20.0,D,360,1,4,19,0,24,33,8,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,238990,Nikola Milenkovic,196.0,77.0,27.0,MALE,31.0,D,393,1,5,22,2,24,12,3,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,239253,Andrew Irving,146.0,75.0,24.0,MALE,39.0,M,371,0,1,3,0,9,6,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,239349,Matthijs de Ligt,194.0,74.0,25.0,MALE,4.0,D,360,0,5,14,1,23,13,10,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,239350,Noussair Mazraoui,139.0,72.0,27.0,MALE,3.0,D,360,1,1,9,0,25,26,15,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,240369,Jean-Ricner Bellegarde,152.0,67.0,26.0,MALE,27.0,M,380,3,3,13,2,23,20,25,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,241012,Ismaïla Sarr,168.0,73.0,26.0,MALE,7.0,F,384,3,19,35,4,25,9,36,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,241077,Ben White,168.0,73.0,27.0,MALE,4.0,D,359,1,1,4,0,9,7,3,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,241093,Ethan Pinnock,172.0,74.0,31.0,MALE,5.0,D,337,0,6,10,2,17,7,3,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,241187,Jean-Philippe Mateta,192.0,76.0,27.0,MALE,14.0,F,384,1,21,50,11,25,22,22,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,241225,Santiago Bueno,168.0,75.0,26.0,MALE,4.0,D,380,0,3,6,0,18,20,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,241253,Ryan Yates,192.0,75.0,27.0,MALE,22.0,M,393,0,7,25,1,22,38,38,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,241325,George Hirst,183.0,75.0,26.0,MALE,27.0,F,373,1,3,4,1,13,5,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,241328,Ryan Sessegnon,152.0,70.0,24.0,MALE,30.0,M,370,0,0,0,0,4,2,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,241429,Joe Gauci,192.0,76.0,24.0,MALE,18.0,G,362,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,241468,Manuel Ugarte,170.0,72.0,23.0,MALE,25.0,M,360,0,1,6,0,18,28,19,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,241627,Edson Álvarez,161.0,74.0,27.0,MALE,19.0,M,371,1,1,12,0,20,31,15,7,1
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,242705,Konstantinos Mavropanos,205.0,76.0,27.0,MALE,15.0,D,371,0,5,14,0,21,11,10,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,243334,Nathan Broadhead,161.0,70.0,26.0,MALE,33.0,F,373,0,3,6,0,9,2,8,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,243364,Marcus Tavernier,152.0,70.0,25.0,MALE,16.0,M,349,5,10,36,2,18,15,14,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,243386,Harvey Barnes,146.0,69.0,27.0,MALE,11.0,M,361,1,10,27,5,20,8,11,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,243396,Morgan Gibbs-White,146.0,67.0,25.0,MALE,10.0,M,393,5,14,36,5,21,26,28,6,1
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,243400,Gabriel Osho,152.0,73.0,26.0,MALE,3.0,D,301,0,2,11,2,21,23,15,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,243408,Jayden Bogle,150.0,70.0,24.0,MALE,2.0,D,398,0,12,31,3,34,37,22,9,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,243440,Dara O'Shea,163.0,74.0,25.0,MALE,26.0,D,373,0,2,13,0,22,10,13,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,243440,Dara O'Shea,163.0,74.0,25.0,MALE,26.0,D,379,4,6,21,3,33,36,15,5,1
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,243725,Max Aarons,150.0,70.0,25.0,MALE,19.0,D,349,0,0,0,0,3,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,243787,Lloyd Kelly,152.0,70.0,26.0,MALE,6.0,D,361,1,0,3,0,10,5,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,245857,Anel Ahmedhodzic,183.0,77.0,25.0,MALE,15.0,D,398,0,5,19,2,31,33,13,10,1
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,245916,Justin Kluivert,148.0,67.0,25.0,MALE,19.0,F,349,5,24,48,11,24,31,18,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,246943,William Smallbone,157.0,72.0,25.0,MALE,8.0,M,376,0,0,4,0,9,6,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,249172,Mads Roerslev,170.0,72.0,25.0,MALE,5.0,D,337,2,2,4,0,18,5,8,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,249299,Alexis Mac Allister,150.0,69.0,26.0,MALE,10.0,M,364,3,8,26,2,25,47,31,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,249524,Cody Gakpo,168.0,76.0,25.0,MALE,18.0,F,364,3,17,41,8,24,14,19,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,250183,Conor Bradley,139.0,71.0,21.0,MALE,84.0,D,364,0,3,7,0,12,7,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,250543,Kevin Danso,185.0,75.0,26.0,MALE,4.0,D,367,0,0,1,0,1,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,250787,Phil Foden,139.0,67.0,24.0,MALE,47.0,M,382,2,14,45,7,20,5,26,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,250936,Boubacar Kamara,150.0,72.0,25.0,MALE,44.0,M,362,0,1,5,0,16,17,20,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,250945,Aaron Wan-Bissaka,159.0,72.0,27.0,MALE,29.0,D,371,1,4,13,2,24,17,17,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,251100,Pau Torres,174.0,75.0,28.0,MALE,14.0,D,362,0,1,8,0,18,6,6,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,251399,Ryan Manning,146.0,68.0,28.0,MALE,3.0,D,376,0,0,3,0,14,9,17,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,251400,Eberechi Eze,161.0,70.0,26.0,MALE,10.0,M,384,5,16,66,2,21,7,34,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,251634,Ibrahima Konaté,207.0,76.0,25.0,MALE,5.0,D,364,2,2,11,1,20,17,12,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,251658,Sean Longstaff,141.0,71.0,27.0,MALE,36.0,M,361,0,1,6,0,19,8,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,251701,Ben Brereton Díaz,174.0,73.0,25.0,MALE,20.0,F,376,0,1,11,0,10,4,8,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,251701,Ben Brereton Díaz,174.0,73.0,25.0,MALE,20.0,F,398,1,17,36,6,14,11,19,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,251936,Ross Stewart,185.0,74.0,28.0,MALE,11.0,F,376,0,0,2,0,4,3,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,252031,Jorge Cuenca,163.0,75.0,25.0,MALE,15.0,D,370,0,0,0,0,4,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,252389,Kiernan Dewsbury-Hall,174.0,70.0,26.0,MALE,22.0,M,363,1,0,1,0,7,2,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,252521,Hannes Delcroix,172.0,73.0,25.0,MALE,28.0,D,379,0,2,4,0,12,6,0,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,252576,Carlos Vinícius,190.0,75.0,29.0,MALE,12.0,F,370,0,1,1,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,252747,Jørgen Strand Larsen,172.0,76.0,25.0,MALE,9.0,F,380,2,22,35,7,23,27,12,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,253958,Tom Davies,152.0,71.0,26.0,MALE,22.0,M,398,0,1,4,0,9,6,2,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,253989,Erling Haaland,192.0,76.0,24.0,MALE,9.0,F,382,3,51,95,19,25,20,12,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,254118,Nicolás Domínguez,161.0,70.0,26.0,MALE,16.0,M,393,0,4,13,0,21,19,11,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,255765,Rhian Brewster,163.0,71.0,24.0,MALE,7.0,F,398,0,1,5,0,13,4,5,0,1
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,255850,Scott McTominay,192.0,76.0,28.0,MALE,8.0,M,360,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,255916,Flynn Downes,152.0,68.0,26.0,MALE,4.0,M,376,0,2,7,1,18,36,29,9,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,256115,Pedro Neto,137.0,68.0,24.0,MALE,7.0,F,363,2,7,28,2,22,11,18,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,256966,Daiki Hashioka,161.0,72.0,25.0,MALE,27.0,D,301,0,2,3,0,10,10,6,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,257039,Vinicius Souza,174.0,74.0,25.0,MALE,21.0,M,398,0,6,13,1,36,45,14,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,257058,Hamed Traoré,170.0,72.0,25.0,MALE,25.0,M,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,257206,Dominik Szoboszlai,161.0,73.0,24.0,MALE,8.0,M,364,2,15,48,3,24,30,17,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,257390,Luis Díaz,141.0,70.0,28.0,MALE,7.0,F,364,2,20,47,9,25,37,24,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,258491,Frank Onyeka,152.0,72.0,27.0,MALE,19.0,M,337,0,0,0,0,2,2,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,259481,Donyell Malen,150.0,69.0,26.0,MALE,17.0,F,362,0,3,6,0,4,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,259486,Eddie Nketiah,159.0,69.0,25.0,MALE,9.0,F,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,259486,Eddie Nketiah,159.0,69.0,25.0,MALE,9.0,F,384,1,7,25,0,18,14,18,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,259497,Boubakary Soumaré,152.0,74.0,25.0,MALE,24.0,M,375,0,0,5,0,18,19,12,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,259517,Joe Willock,157.0,70.0,25.0,MALE,28.0,M,361,1,2,12,0,22,12,10,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,259836,Jadon Sancho,168.0,71.0,24.0,MALE,19.0,F,363,4,4,18,2,19,3,7,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,259838,Aro Muric,179.0,78.0,26.0,MALE,1.0,G,373,0,0,0,0,18,0,4,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,259838,Aro Muric,179.0,78.0,26.0,MALE,1.0,G,379,0,1,1,0,10,0,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,259863,Tyrell Malacia,148.0,67.0,25.0,MALE,12.0,D,360,0,0,0,0,3,3,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,259902,Matheus Cunha,168.0,72.0,25.0,MALE,10.0,F,380,4,27,76,12,24,32,50,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,259910,Marc Cucurella,146.0,68.0,26.0,MALE,3.0,D,363,1,3,12,2,23,26,25,7,1
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,259942,Brandon Austin,181.0,74.0,26.0,MALE,40.0,G,367,0,0,0,0,1,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,261047,Sandro Tonali,172.0,71.0,24.0,MALE,8.0,M,361,1,6,21,1,23,27,33,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,261083,Luke Woolfenden,152.0,76.0,26.0,MALE,6.0,D,373,0,0,1,0,10,4,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,261087,Matt O'Riley,170.0,74.0,24.0,MALE,33.0,M,331,1,3,13,1,12,6,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,261419,Callum Hudson-Odoi,168.0,72.0,24.0,MALE,14.0,F,393,2,11,28,3,21,7,13,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,261448,Oliver Skipp,152.0,69.0,24.0,MALE,22.0,M,375,0,1,3,0,15,11,11,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,261504,Elijah Adebayo,194.0,76.0,27.0,MALE,11.0,F,301,0,14,31,10,27,25,16,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,262594,Vitaliy Mykolenko,157.0,71.0,25.0,MALE,19.0,D,368,0,0,11,0,23,17,20,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,263110,Calvin Bassey,168.0,73.0,25.0,MALE,3.0,D,370,0,4,13,1,24,15,24,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,264751,Lyle Foster,152.0,73.0,24.0,MALE,17.0,F,379,3,15,33,5,24,23,11,0,1
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,265653,Morgan Rogers,174.0,74.0,22.0,MALE,27.0,F,362,4,13,44,6,25,38,34,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,265907,Marc Guéhi,174.0,72.0,24.0,MALE,6.0,D,384,2,8,14,3,24,12,20,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,265918,Maxence Lacroix,192.0,75.0,24.0,MALE,5.0,D,384,1,3,20,1,22,24,13,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,265965,Yukinari Sugawara,150.0,70.0,24.0,MALE,16.0,D,376,1,3,10,1,22,10,9,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,266096,Marshall Munetsi,183.0,74.0,28.0,MALE,5.0,M,380,0,1,2,0,1,1,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,266599,Mohammed Kudus,152.0,70.0,24.0,MALE,14.0,M,371,1,15,54,3,20,18,37,0,1
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,266628,Cheick Doucouré,161.0,71.0,25.0,MALE,28.0,M,384,0,0,7,0,13,7,7,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,266697,Emile Smith Rowe,172.0,72.0,24.0,MALE,32.0,M,370,2,8,27,5,23,12,12,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,266846,Steven Benda,183.0,76.0,26.0,MALE,23.0,G,370,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,267458,Paris Maghoma,150.0,71.0,23.0,MALE,32.0,M,337,0,0,0,0,5,2,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,267711,Djed Spence,157.0,73.0,24.0,MALE,24.0,D,367,1,1,5,0,12,7,9,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,268239,Albert Sambi Lokonga,148.0,72.0,25.0,MALE,12.0,M,301,3,2,6,1,17,18,28,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,268533,Pedro Porro,150.0,68.0,25.0,MALE,23.0,D,367,5,8,35,2,25,17,22,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,268641,Iliman Ndiaye,152.0,71.0,24.0,MALE,10.0,F,368,0,10,24,6,24,15,40,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,268700,Vitinho,159.0,69.0,25.0,MALE,2.0,D,379,2,4,25,0,32,27,28,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,268782,Anthony Gordon,159.0,72.0,23.0,MALE,10.0,F,361,5,16,49,6,24,16,53,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,269276,Rhys Norrington-Davies,150.0,71.0,25.0,MALE,33.0,D,398,0,0,0,0,5,3,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,269343,Jack Clarke,161.0,71.0,24.0,MALE,47.0,F,373,2,1,11,0,20,10,15,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,269844,Gabriel Martinelli,163.0,70.0,23.0,MALE,11.0,F,359,4,14,27,6,22,10,14,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,270190,Wesley Fofana,183.0,75.0,24.0,MALE,29.0,D,363,0,0,2,0,12,19,15,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,270507,Sepp van den Berg,161.0,74.0,23.0,MALE,4.0,D,337,0,4,12,0,21,15,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,271170,Bryan Mbeumo,139.0,68.0,25.0,MALE,19.0,M,337,4,28,52,14,25,16,29,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,271191,Nathan Patterson,183.0,74.0,23.0,MALE,2.0,D,368,0,0,1,0,7,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,271788,Darwin Núñez,179.0,74.0,25.0,MALE,9.0,F,364,2,10,26,4,21,20,13,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,272512,Rayan Aït-Nouri,152.0,71.0,23.0,MALE,3.0,D,380,5,5,18,3,24,23,26,5,1
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,272585,Chris Richards,192.0,74.0,24.0,MALE,26.0,D,384,0,3,6,0,14,7,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,272695,Dejan Kulusevski,174.0,73.0,24.0,MALE,21.0,M,367,4,15,42,6,25,32,31,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,273292,Antoine Semenyo,172.0,73.0,25.0,MALE,24.0,F,349,4,29,94,7,24,47,29,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,273495,Dwight McNeil,150.0,72.0,25.0,MALE,7.0,F,368,4,8,23,3,13,6,13,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,273839,Will Alves,183.0,76.0,19.0,MALE,29.0,M,375,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,274217,Billy Gilmour,130.0,67.0,23.0,MALE,6.0,M,331,0,0,1,0,2,2,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,274272,Altay Bayindir,192.0,78.0,26.0,MALE,1.0,G,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,274278,Kaoru Mitoma,161.0,70.0,27.0,MALE,22.0,M,331,3,18,41,6,25,29,18,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,274284,João Virgínia,183.0,76.0,25.0,MALE,12.0,G,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,274632,Ryan Gravenberch,183.0,75.0,22.0,MALE,38.0,M,364,2,3,13,0,26,37,36,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,274633,Sven Botman,179.0,76.0,25.0,MALE,4.0,D,361,0,0,1,0,3,4,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,274971,Jens Cajuste,170.0,74.0,25.0,MALE,12.0,M,373,0,0,4,0,18,13,13,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,275599,Caoimhín Kelleher,161.0,74.0,26.0,MALE,62.0,G,364,0,0,0,0,8,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,276039,Tariq Lamptey,119.0,64.0,24.0,MALE,2.0,D,331,2,2,6,2,11,6,5,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,276218,Tahith Chong,163.0,73.0,25.0,MALE,14.0,M,301,0,6,30,4,33,19,64,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,276220,James Garner,172.0,73.0,23.0,MALE,37.0,M,368,2,0,3,0,8,6,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,276327,Joshua Zirkzee,183.0,76.0,23.0,MALE,11.0,F,360,1,8,21,3,25,7,8,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,276350,João Félix,152.0,71.0,25.0,MALE,79.0,F,363,1,5,19,1,12,5,17,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,276741,Carlos Miguel,205.0,80.0,26.0,MALE,33.0,G,393,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,277005,Nathan Wood,163.0,74.0,22.0,MALE,15.0,D,376,0,0,2,0,9,8,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,277327,Jean-Clair Todibo,192.0,76.0,25.0,MALE,25.0,D,371,0,0,2,0,15,6,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,277385,William Saliba,203.0,76.0,23.0,MALE,2.0,D,359,0,2,3,2,23,21,11,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,277559,Alfie Doughty,150.0,72.0,25.0,MALE,45.0,M,301,9,8,26,2,37,30,9,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,278061,Georginio Rutter,183.0,72.0,22.0,MALE,14.0,F,331,2,9,41,4,24,29,37,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,278822,Jesper Lindstrom,146.0,72.0,24.0,MALE,29.0,M,368,0,8,27,0,21,12,7,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,279155,James Hill,161.0,72.0,23.0,MALE,23.0,D,349,1,0,1,0,5,4,4,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,279780,Nathan Collins,183.0,76.0,23.0,MALE,22.0,D,337,1,5,14,2,25,16,19,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,280555,Bukayo Saka,159.0,70.0,23.0,MALE,7.0,F,359,10,18,46,5,16,13,32,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,280764,Julián Araujo,152.0,69.0,23.0,MALE,22.0,D,349,0,0,0,0,8,4,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,280806,Harvey Elliott,139.0,67.0,21.0,MALE,19.0,M,364,1,0,2,0,9,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,280895,Mike Trésor,139.0,68.0,25.0,MALE,31.0,F,379,0,0,5,0,16,0,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,281121,Taylor Harwood-Bellis,181.0,74.0,23.0,MALE,6.0,D,376,0,4,15,1,23,25,11,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,281125,Ian Maatsen,126.0,70.0,22.0,MALE,22.0,D,362,1,3,8,0,20,5,4,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,281558,Antony,139.0,69.0,24.0,MALE,7.0,F,360,0,3,6,0,8,2,5,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,281564,Mads Hermansen,179.0,74.0,24.0,MALE,30.0,G,375,0,0,0,0,18,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,281730,Luke Cundle,137.0,67.0,22.0,MALE,25.0,M,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,282186,Mats Wieffer,172.0,74.0,25.0,MALE,27.0,M,331,2,2,5,1,13,14,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,282583,Jan Paul van Hecke,172.0,74.0,24.0,MALE,29.0,D,331,1,2,10,0,23,17,11,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,282585,Benoît Badiashile,163.0,76.0,23.0,MALE,5.0,D,363,0,0,0,0,4,6,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,282716,Jurriën Timber,172.0,70.0,23.0,MALE,12.0,D,359,1,3,11,1,22,25,20,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,282885,Han-Noah Massengo,152.0,70.0,23.0,MALE,80.0,M,379,0,0,0,0,3,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,283086,Leif Davis,152.0,72.0,25.0,MALE,3.0,D,373,2,2,12,1,24,23,25,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,283586,Jake O'Brien,203.0,78.0,23.0,MALE,15.0,D,368,0,0,0,0,8,2,3,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,283672,Jérémy Doku,146.0,68.0,22.0,MALE,11.0,F,382,4,6,17,3,16,3,19,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,284081,Caleb Okoli,201.0,75.0,23.0,MALE,5.0,D,375,0,2,4,0,15,12,8,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,284490,Keane Lewis-Potter,148.0,67.0,23.0,MALE,23.0,F,337,2,13,25,1,25,9,18,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,284641,Tommy Doyle,161.0,68.0,23.0,MALE,20.0,M,380,1,2,9,0,20,5,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,284792,Crysencio Summerville,139.0,69.0,23.0,MALE,7.0,F,371,1,2,14,1,19,9,23,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,284960,João Pedro,152.0,72.0,23.0,MALE,9.0,F,331,5,12,32,5,19,15,34,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,285450,Enzo Fernández,168.0,70.0,24.0,MALE,8.0,M,363,4,9,28,3,23,31,31,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,285629,Jhon Durán,161.0,73.0,21.0,MALE,9.0,F,362,0,15,31,7,20,14,15,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,286090,Jacob Ramsey,163.0,71.0,23.0,MALE,41.0,M,362,2,4,14,1,18,8,17,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,286128,Armel Bella-Kotchap,192.0,75.0,23.0,MALE,37.0,D,376,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,286965,Jarrad Branthwaite,192.0,77.0,22.0,MALE,32.0,D,368,1,1,5,0,18,5,10,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,287461,Jakub Moder,172.0,74.0,25.0,MALE,7.0,M,331,0,0,0,0,4,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,289511,Beto,192.0,76.0,27.0,MALE,14.0,F,368,0,10,21,5,17,16,11,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,289645,Evan Ferguson,172.0,72.0,20.0,MALE,34.0,F,331,0,2,7,1,13,3,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,289645,Evan Ferguson,172.0,72.0,20.0,MALE,34.0,F,371,0,3,9,1,14,3,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,289837,Yasser Larouci,150.0,69.0,24.0,MALE,37.0,D,398,0,1,6,0,11,5,5,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,289840,Vitezslav Jaros,192.0,75.0,23.0,MALE,56.0,G,364,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,289877,Moisés Caicedo,161.0,70.0,23.0,MALE,25.0,M,363,2,2,12,1,25,52,35,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,290076,Destiny Udogie,161.0,73.0,22.0,MALE,13.0,D,367,1,1,5,0,18,21,30,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,290101,Andrew Omobamidele,172.0,74.0,22.0,MALE,2.0,D,393,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,290413,Hjalmar Ekdal,170.0,74.0,26.0,MALE,4.0,D,379,0,0,1,0,8,8,2,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,290581,Woyo Coulibaly,170.0,74.0,25.0,MALE,25.0,D,375,0,0,0,0,3,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,291174,Jacob Greaves,152.0,73.0,24.0,MALE,24.0,D,373,0,3,7,1,15,8,11,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,291269,William Dennis,183.0,74.0,24.0,MALE,40.0,G,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,291307,Brennan Johnson,161.0,73.0,23.0,MALE,22.0,F,367,2,16,44,7,22,16,15,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,291468,Justin Devenny,161.0,70.0,21.0,MALE,55.0,M,384,0,3,6,1,12,4,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,291535,Armando Broja,183.0,75.0,23.0,MALE,22.0,F,368,0,0,4,0,5,4,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,291609,Bart Verbruggen,146.0,76.0,22.0,MALE,1.0,G,331,1,0,0,0,23,0,1,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,291630,Amad,159.0,68.0,22.0,MALE,16.0,F,360,6,13,37,6,22,19,23,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,291638,Neco Williams,159.0,72.0,23.0,MALE,7.0,D,393,1,5,23,1,22,13,25,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,293236,Noni Madueke,163.0,72.0,22.0,MALE,11.0,F,363,3,25,65,7,23,14,18,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,293337,Harrison Clarke,157.0,71.0,23.0,MALE,18.0,D,373,0,1,1,0,7,4,1,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,293347,Cameron Archer,159.0,71.0,23.0,MALE,19.0,F,376,0,7,23,2,22,11,10,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,293347,Cameron Archer,159.0,71.0,23.0,MALE,19.0,F,398,1,9,41,4,30,13,20,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,294427,Issa Kaboré,170.0,71.0,23.0,MALE,29.0,D,301,2,2,7,0,24,27,30,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,294427,Issa Kaboré,170.0,71.0,23.0,MALE,29.0,D,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,295370,Jaden Philogene,146.0,71.0,23.0,MALE,29.0,F,362,0,0,7,0,11,11,8,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,295370,Jaden Philogene,146.0,71.0,23.0,MALE,29.0,F,373,0,0,7,0,14,14,10,3,1
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,296395,Cole Palmer,168.0,74.0,22.0,MALE,20.0,M,363,6,30,89,14,25,12,51,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,296398,Jakub Stolarczyk,179.0,76.0,24.0,MALE,41.0,G,375,0,0,0,0,6,0,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,296410,Levi Colwill,183.0,74.0,21.0,MALE,6.0,D,363,1,1,8,0,23,23,16,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,296512,Micky van de Ven,179.0,76.0,23.0,MALE,37.0,D,367,2,1,5,0,9,8,6,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,296612,Nathan Butler-Oyedeji,161.0,70.0,22.0,MALE,37.0,F,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,296618,Teden Mengi,172.0,73.0,22.0,MALE,15.0,D,301,0,4,11,1,30,33,7,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,296622,Anthony Elanga,152.0,70.0,22.0,MALE,21.0,F,393,9,12,30,3,25,5,26,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,297337,Pape Matar Sarr,152.0,73.0,22.0,MALE,29.0,M,367,2,11,21,2,25,19,25,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,297750,Albert Gronbaek Erlykke,141.0,69.0,23.0,MALE,29.0,M,376,0,0,2,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,297775,Naouirou Ahamada,161.0,72.0,22.0,MALE,32.0,M,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,298329,Riccardo Calafiori,190.0,74.0,22.0,MALE,33.0,D,359,1,4,6,2,14,14,6,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,298518,James McAtee,159.0,71.0,22.0,MALE,87.0,M,382,0,2,5,2,8,2,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,298518,James McAtee,159.0,71.0,22.0,MALE,87.0,M,398,3,9,26,3,31,13,29,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,298520,Cieran Slicker,181.0,75.0,22.0,MALE,13.0,G,373,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,298522,Tyler Morton,163.0,72.0,22.0,MALE,80.0,M,364,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,298524,Jarell Quansah,183.0,75.0,22.0,MALE,78.0,D,364,0,0,0,0,7,6,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,298938,Tawanda Chirewa,159.0,71.0,21.0,MALE,27.0,M,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,299641,Valentino Livramento,141.0,72.0,22.0,MALE,21.0,D,361,0,1,3,0,24,4,23,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,299910,Josko Gvardiol,174.0,73.0,23.0,MALE,24.0,D,382,0,9,33,5,24,9,16,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,299911,Mykhailo Mudryk,132.0,69.0,24.0,MALE,10.0,M,363,0,1,1,0,7,1,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,300103,Welington,161.0,70.0,24.0,MALE,34.0,D,376,0,0,0,0,2,2,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,300853,Tyrick Mitchell,150.0,69.0,25.0,MALE,3.0,D,384,3,1,7,0,25,12,20,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,300966,Ronnie Edwards,168.0,71.0,21.0,MALE,17.0,D,376,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,301047,David Datro Fofana,168.0,71.0,22.0,MALE,-1.0,F,379,1,10,19,4,15,16,10,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,301248,Jay Stansfield,0.0,0.0,22.0,MALE,28.0,F,370,0,0,0,0,1,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,301462,Yerson Mosquera,168.0,74.0,23.0,MALE,14.0,D,380,0,0,2,0,5,6,7,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,301524,João Gomes,161.0,69.0,24.0,MALE,8.0,M,380,1,6,20,2,23,52,23,7,1
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,301525,Rodrigo Muniz,148.0,70.0,23.0,MALE,9.0,F,370,1,11,26,4,24,9,20,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,301653,Ramón Sosa,163.0,70.0,25.0,MALE,24.0,F,393,0,5,10,1,14,6,6,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,301894,Thiago,185.0,75.0,23.0,MALE,9.0,F,337,0,0,1,0,4,3,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,302162,Carlos Alcaraz,150.0,69.0,22.0,MALE,24.0,M,368,1,4,6,1,3,3,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,302162,Carlos Alcaraz,150.0,69.0,22.0,MALE,24.0,M,376,0,1,1,0,1,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,302944,Anis Ben Slimane,190.0,74.0,23.0,MALE,20.0,M,398,0,3,8,0,15,7,6,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,303115,Kamaldeen Sulemana,152.0,69.0,23.0,MALE,20.0,M,376,0,4,12,1,13,6,7,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,303745,Omar Marmoush,179.0,72.0,26.0,MALE,7.0,F,382,0,3,7,3,3,1,6,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,303785,Matheus Nunes,172.0,72.0,26.0,MALE,27.0,M,382,4,1,5,0,17,17,11,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,303794,Matt Turner,183.0,75.0,30.0,MALE,30.0,G,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,304216,André,170.0,69.0,23.0,MALE,7.0,M,380,0,1,2,0,20,19,20,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,304242,Yasin Ayari,150.0,68.0,21.0,MALE,26.0,M,331,0,6,18,0,21,25,18,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,304256,Filip Jørgensen,185.0,75.0,22.0,MALE,12.0,G,363,0,0,0,0,4,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,304470,Savinho,146.0,70.0,20.0,MALE,26.0,F,382,7,17,39,1,20,14,17,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,304503,Illia Zabarnyi,174.0,74.0,22.0,MALE,27.0,D,349,0,0,7,0,25,12,5,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,304799,Amadou Onana,168.0,77.0,23.0,MALE,24.0,M,362,0,4,11,2,17,24,16,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,304965,Jakub Kiwior,163.0,74.0,25.0,MALE,15.0,D,359,0,0,0,0,8,5,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,306012,Dane Scarlett,168.0,71.0,20.0,MALE,44.0,F,367,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,306013,Alfie Devine,163.0,72.0,20.0,MALE,10.0,M,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,306493,Imari Samuels,172.0,74.0,22.0,MALE,12.0,D,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,306541,Myles Peart-Harris,174.0,74.0,22.0,MALE,25.0,M,337,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,306764,Danilo,150.0,69.0,23.0,MALE,28.0,M,393,0,0,0,0,3,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,307069,Carl Rushworth,190.0,74.0,23.0,MALE,39.0,G,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,307073,Kasey McAteer,150.0,70.0,23.0,MALE,35.0,M,375,1,2,6,0,11,8,10,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,307110,Ben Nelson,192.0,76.0,20.0,MALE,16.0,D,375,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,307114,Liam Delap,159.0,73.0,22.0,MALE,19.0,F,373,2,22,43,10,24,52,36,8,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,307117,Josh Wilson-Esbrand,152.0,69.0,22.0,MALE,33.0,D,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,307118,James Trafford,183.0,78.0,22.0,MALE,1.0,G,379,0,0,0,0,28,0,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,307119,Samuel Edozie,157.0,71.0,22.0,MALE,27.0,M,376,0,0,0,0,2,2,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,307172,Salah-Eddine Oulad M'Hand,152.0,70.0,21.0,MALE,56.0,M,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,307657,Jaidon Anthony,0.0,72.0,25.0,MALE,11.0,F,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,307870,Chadi Riad,172.0,73.0,21.0,MALE,34.0,D,384,0,0,0,0,1,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,308217,Romeo Lavia,168.0,71.0,21.0,MALE,45.0,M,363,1,0,1,0,10,10,3,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,308449,Emmanuel Agbadou,174.0,76.0,27.0,MALE,12.0,D,380,0,1,2,0,5,0,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,308456,Rodrigo Gomes,148.0,69.0,21.0,MALE,19.0,F,380,0,1,3,1,17,2,4,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,308461,Lorenz Assignon,148.0,70.0,24.0,MALE,22.0,D,379,2,4,9,1,15,33,16,4,1
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,308524,Nicolas Jackson,172.0,73.0,23.0,MALE,15.0,F,363,6,26,60,9,23,19,23,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,308554,Alfie Pond,190.0,75.0,20.0,MALE,46.0,D,380,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,308778,Toby Collyer,161.0,71.0,21.0,MALE,43.0,M,360,0,0,0,0,4,1,3,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,308932,Mikkel Damsgaard,146.0,71.0,24.0,MALE,24.0,M,337,8,7,23,2,25,10,20,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,308947,Malo Gusto,148.0,70.0,21.0,MALE,27.0,D,363,1,2,18,0,21,15,14,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,309273,Rasmus Højlund,190.0,75.0,22.0,MALE,9.0,F,360,0,8,17,2,20,10,21,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,309563,Lesley Ugochukwu,159.0,75.0,20.0,MALE,26.0,M,376,1,0,5,0,15,18,9,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,310216,Radu Dragusin,185.0,75.0,22.0,MALE,6.0,D,367,0,1,5,0,16,6,10,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,310599,Tim Iroegbunam,152.0,72.0,21.0,MALE,42.0,M,368,1,0,5,0,9,10,9,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,310606,Sil Swinkels,172.0,75.0,21.0,MALE,25.0,D,362,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,310607,Lamare Bogarde,168.0,72.0,21.0,MALE,26.0,D,362,0,1,1,0,6,7,9,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,310958,Kevin Schade,161.0,72.0,23.0,MALE,7.0,M,337,2,15,34,7,25,10,19,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,310991,Victor Kristiansen,161.0,71.0,22.0,MALE,16.0,D,375,1,1,3,0,22,15,14,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,311527,Hákon Rafn Valdimarsson,194.0,74.0,23.0,MALE,12.0,G,337,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,312182,Daniel Jebbison,150.0,75.0,21.0,MALE,21.0,F,349,0,1,2,0,7,2,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,312182,Daniel Jebbison,150.0,75.0,21.0,MALE,21.0,F,398,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,312523,Oliwier Zych,179.0,76.0,20.0,MALE,48.0,G,362,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,314790,Alex Scott,150.0,70.0,21.0,MALE,8.0,M,349,0,1,4,0,9,4,14,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,315530,Dango Ouattara,157.0,70.0,23.0,MALE,11.0,F,349,4,14,40,7,22,10,10,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,315879,Harvey Davies,170.0,75.0,21.0,MALE,95.0,G,364,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,317404,Simon Adingra,150.0,69.0,23.0,MALE,11.0,F,331,1,4,13,2,17,8,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,318284,Facundo Buonanotte,146.0,69.0,20.0,MALE,40.0,M,375,2,10,24,4,21,26,26,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,318316,Maxime Estève,192.0,76.0,22.0,MALE,5.0,D,379,0,0,7,0,16,25,16,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,318359,Eiran Cashin,190.0,71.0,23.0,MALE,16.0,D,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,318680,Fatawu Issahaku,161.0,70.0,20.0,MALE,7.0,F,375,2,5,13,0,11,9,20,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,319431,William Osula,179.0,71.0,21.0,MALE,18.0,F,361,0,0,0,0,9,1,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,319431,William Osula,179.0,71.0,21.0,MALE,18.0,F,398,0,7,19,0,21,14,12,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,319987,Nasser Djiga,174.0,74.0,22.0,MALE,34.0,D,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,320757,Zeki Amdouni,172.0,73.0,24.0,MALE,7.0,F,379,1,21,48,5,34,21,39,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,320760,Valentín Barco,146.0,67.0,20.0,MALE,32.0,D,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,320848,Toti Gomes,159.0,74.0,26.0,MALE,24.0,D,380,1,0,2,0,18,13,10,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,321359,Chiquinho,161.0,70.0,25.0,MALE,20.0,F,380,0,0,0,0,1,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,322771,Omari Hutchinson,141.0,69.0,21.0,MALE,20.0,F,373,2,12,29,2,23,21,30,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,323110,Milos Kerkez,157.0,71.0,21.0,MALE,3.0,D,349,3,3,13,2,25,22,27,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,323847,Ameen Al Dakhil,152.0,74.0,22.0,MALE,2.0,D,379,0,4,7,1,13,6,4,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,323986,Nicolas Gonzalez,192.0,74.0,23.0,MALE,14.0,M,382,0,0,0,0,1,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,324393,Antonin Kinsky,0.0,0.0,21.0,MALE,31.0,G,367,0,0,0,0,4,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,325042,Mathys Tel,170.0,72.0,19.0,MALE,11.0,F,367,0,3,7,0,1,3,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,325555,Alejandro Garnacho,161.0,71.0,20.0,MALE,17.0,F,360,1,22,56,3,24,5,24,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,325564,Rico Lewis,139.0,67.0,20.0,MALE,82.0,D,382,2,2,8,1,20,10,25,4,1
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,326230,James McConnell,141.0,69.0,20.0,MALE,53.0,M,364,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,328008,Ruairi Mcconville,174.0,76.0,19.0,MALE,15.0,D,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,328011,Jack Hinshelwood,168.0,71.0,19.0,MALE,41.0,M,331,0,3,9,1,13,9,2,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,328013,Jeremy Sarmiento,159.0,70.0,22.0,MALE,7.0,M,331,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,328016,Roman Quintyne,141.0,69.0,20.0,MALE,75.0,D,368,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,328018,Jenson Metcalfe,0.0,0.0,20.0,MALE,26.0,M,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,328023,Thomas Cannon,139.0,71.0,22.0,MALE,28.0,F,375,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,328050,Archie Gray,152.0,74.0,18.0,MALE,14.0,M,367,0,2,2,0,18,6,5,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,328232,Kaelan Casey,152.0,73.0,20.0,MALE,42.0,D,371,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,328464,Nico O'Reilly,170.0,74.0,19.0,MALE,75.0,M,382,0,0,1,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,328466,Kobbie Mainoo,159.0,69.0,19.0,MALE,37.0,M,360,1,1,8,0,18,21,20,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Ipswich Town,0000fa,cd1937,330579,Ali Ibrahim Al-Hamadi,181.0,72.0,22.0,MALE,9.0,F,373,0,0,4,0,11,8,3,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,333419,Adam Wharton,170.0,72.0,21.0,MALE,20.0,M,384,0,5,9,0,10,5,12,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,336394,Cesare Casadei,170.0,73.0,22.0,MALE,22.0,M,363,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,336595,Bilal El Khannouss,152.0,71.0,20.0,MALE,11.0,M,375,1,3,14,2,20,21,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,337011,Renato Veiga,192.0,75.0,21.0,MALE,12.0,M,363,0,1,3,0,7,6,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,337023,Matai Akinmboni,170.0,75.0,18.0,MALE,45.0,D,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,337083,Oliver Arblaster,141.0,69.0,20.0,MALE,4.0,M,398,0,2,2,0,12,10,11,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,338814,Carlos Baleba,161.0,70.0,21.0,MALE,20.0,M,331,1,7,30,2,21,29,29,6,1
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,338894,Murillo,163.0,71.0,22.0,MALE,5.0,D,393,0,3,18,1,24,18,4,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,340206,Leny Yoro,183.0,75.0,19.0,MALE,15.0,D,360,0,1,5,0,11,5,1,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,340640,Tyler Dibling,159.0,70.0,19.0,MALE,33.0,M,376,0,9,21,2,21,21,37,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,341333,Luca Koleosho,150.0,69.0,20.0,MALE,30.0,F,379,1,5,23,1,15,18,14,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,342029,Yehor Yarmoliuk,159.0,71.0,20.0,MALE,18.0,M,337,0,1,8,0,19,4,5,2,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,343573,Tommy Setford,168.0,73.0,18.0,MALE,36.0,G,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,344692,Jota Silva,170.0,70.0,25.0,MALE,20.0,F,393,1,3,14,1,24,17,20,4,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,345197,Ryan One,0.0,0.0,18.0,MALE,39.0,F,398,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,345213,Kaden Rodney,148.0,74.0,20.0,MALE,42.0,M,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,345222,Thomas Wilson-Brown,0.0,76.0,20.0,MALE,2.0,D,375,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,345687,Wilson Odobert,168.0,72.0,20.0,MALE,28.0,F,367,0,0,6,0,4,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Burnley,6C1D45,1a1a1a,345687,Wilson Odobert,168.0,72.0,20.0,MALE,28.0,F,379,3,15,49,3,29,9,19,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,346553,Jordan Amissah,0.0,78.0,23.0,MALE,18.0,G,398,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,346710,Killian Cahill,148.0,72.0,21.0,MALE,38.0,G,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,346816,Dante Cassanova,146.0,70.0,20.0,MALE,59.0,D,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,346819,Youssef Chermiti,183.0,76.0,20.0,MALE,17.0,F,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,346820,Mateus Fernandes,159.0,70.0,20.0,MALE,18.0,M,376,2,10,25,1,23,29,35,7,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,346874,Alex Murphy,172.0,74.0,20.0,MALE,3.0,D,361,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,346910,Divin Mubama,152.0,72.0,20.0,MALE,67.0,F,382,0,0,1,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,347046,Max Alleyne,157.0,73.0,19.0,MALE,68.0,D,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,347052,Tyler Fredricson,152.0,72.0,19.0,MALE,55.0,D,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,347053,Elyh Harrison,0.0,72.0,19.0,MALE,50.0,G,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,347265,Jacob Slater,161.0,72.0,20.0,MALE,53.0,D,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,347289,Zack Nelson,161.0,72.0,19.0,MALE,37.0,M,301,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,348264,Alfie Dorrington,163.0,71.0,19.0,MALE,26.0,D,367,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,348294,Dominic Sadi,141.0,69.0,21.0,MALE,49.0,F,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,348301,Martial Godo,132.0,67.0,21.0,MALE,47.0,F,370,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,348303,Zach Abbott,152.0,71.0,18.0,MALE,44.0,D,393,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,348305,Ryan Trevitt,141.0,67.0,21.0,MALE,21.0,M,337,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,348779,Coby Ebere,0.0,74.0,19.0,MALE,84.0,F,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,348787,Yankuba Minteh,141.0,71.0,20.0,MALE,17.0,F,331,2,7,17,5,20,14,7,6,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,348787,Yankuba Minteh,141.0,71.0,20.0,MALE,17.0,F,361,1,0,2,0,2,3,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Newcastle United,000000,cd1937,349078,Lewis Miley,159.0,73.0,18.0,MALE,67.0,M,361,0,1,1,0,6,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,349181,Will Lankshear,174.0,74.0,19.0,MALE,42.0,F,367,0,0,0,0,3,2,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,349733,Ethan Nwaneri,152.0,69.0,17.0,MALE,53.0,M,359,1,4,12,3,15,3,4,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,350353,Andre Brooks,0.0,71.0,21.0,MALE,35.0,M,398,0,2,9,0,20,11,9,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,350501,Samuel Amo-Ameyaw,139.0,69.0,18.0,MALE,27.0,F,376,0,0,1,0,2,1,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,350502,Oliver Scarles,163.0,72.0,19.0,MALE,57.0,D,371,0,0,2,0,7,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Leicester City,0202fb,000000,350629,Henry Cartwright,148.0,69.0,20.0,MALE,49.0,M,375,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,350674,Damola Ajayi,163.0,69.0,19.0,MALE,63.0,F,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,350685,Maldini Kacurri,183.0,72.0,19.0,MALE,47.0,D,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,351059,Josh Nichols,121.0,65.0,18.0,MALE,51.0,D,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,351122,Isaac Heath,119.0,68.0,20.0,MALE,83.0,F,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,351382,Lewis Orford,161.0,74.0,19.0,MALE,61.0,M,371,0,0,1,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,352758,Myles Lewis-Skelly,159.0,70.0,18.0,MALE,49.0,M,359,0,1,1,1,11,5,18,2,1
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,352820,Jayden Meghoma,174.0,69.0,18.0,MALE,3.0,D,337,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,353155,Jili Buyabu,0.0,72.0,21.0,MALE,30.0,D,398,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,353195,Kadan Young,148.0,69.0,19.0,MALE,72.0,F,362,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,354729,Sydie Peck,141.0,68.0,20.0,MALE,42.0,M,398,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,354737,Jayden Danns,148.0,72.0,19.0,MALE,76.0,F,364,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,355149,Callum Bates,172.0,71.0,19.0,MALE,92.0,M,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,355915,Tom Edozie,150.0,70.0,18.0,MALE,74.0,F,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,356000,Dean Huijsen,192.0,77.0,19.0,MALE,2.0,D,349,1,2,11,2,19,14,5,5,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,356044,Ayden Heaven,170.0,74.0,18.0,MALE,76.0,D,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,356044,Ayden Heaven,170.0,74.0,18.0,MALE,76.0,D,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,356069,Daniel Adu-Addei,150.0,70.0,19.0,MALE,44.0,F,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,356074,Martin Sherif,157.0,72.0,18.0,MALE,67.0,F,368,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,356075,Trey Nyoni,163.0,71.0,17.0,MALE,98.0,M,364,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,356080,Andrés García,0.0,0.0,21.0,MALE,16.0,F,362,0,0,1,0,3,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,356208,Romain Esse,148.0,69.0,19.0,MALE,21.0,M,384,0,1,1,1,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,356379,Lucas Bergvall,161.0,74.0,18.0,MALE,15.0,M,367,0,1,6,0,18,13,11,3,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,356640,Michael Kayode,161.0,70.0,20.0,MALE,33.0,D,337,0,0,0,0,2,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,356940,Harry Amass,157.0,71.0,17.0,MALE,41.0,D,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,356953,Louie Marsh,141.0,69.0,20.0,MALE,21.0,F,398,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,357153,Callan Mckenna,168.0,74.0,18.0,MALE,46.0,G,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,357337,Jahmai Simpson-Pusey,172.0,74.0,19.0,MALE,66.0,D,382,0,0,0,0,2,0,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,357338,Zach Marsh,130.0,69.0,19.0,MALE,63.0,F,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,357683,Brajan Gruda,152.0,70.0,20.0,MALE,8.0,M,331,0,1,3,0,11,3,6,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,358084,Caleb Kporha,148.0,67.0,18.0,MALE,58.0,D,384,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,358178,Jayce Fitzgerald,152.0,70.0,17.0,MALE,76.0,M,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,358407,Mark O’Mahony,0.0,0.0,20.0,MALE,11.0,F,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,358587,Max Kinsey-Wellings,168.0,72.0,20.0,MALE,48.0,D,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,361429,Luis Guilherme,161.0,70.0,19.0,MALE,17.0,F,371,0,0,1,0,7,0,2,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,361434,Vitor Reis,148.0,73.0,19.0,MALE,22.0,D,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,362203,Kim Ji-Soo,183.0,76.0,20.0,MALE,36.0,D,337,0,0,0,0,2,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,362211,Abdukodir Khusanov,183.0,73.0,20.0,MALE,45.0,D,382,0,0,1,0,2,3,1,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,363038,Marc Guiu,181.0,74.0,19.0,MALE,38.0,F,363,0,0,0,0,3,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,363218,Aaron Anselmino,183.0,73.0,19.0,MALE,30.0,D,363,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,364764,Mathis Amougou,141.0,70.0,19.0,MALE,39.0,M,363,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,365332,Mikey Moore,163.0,71.0,17.0,MALE,47.0,F,367,1,0,3,0,7,3,4,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,365340,Jacob Wright,141.0,70.0,19.0,MALE,56.0,M,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,365355,Franco Umeh-Chibueze,161.0,73.0,20.0,MALE,46.0,F,384,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,365367,Kosta Nedeljkovic,159.0,72.0,19.0,MALE,21.0,D,362,0,0,0,0,5,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Fulham,ffffff,d11317,365953,Samuel Amissah,161.0,72.0,17.0,MALE,35.0,D,370,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,366781,Patrick Dorgu,150.0,73.0,20.0,MALE,13.0,D,360,0,0,1,0,1,1,3,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,366990,Yunus Konak,168.0,71.0,19.0,MALE,26.0,M,337,0,0,1,0,5,2,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,367000,Zain Silcott-Duberry,161.0,72.0,19.0,MALE,43.0,F,349,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,367001,Samuel Rak-Sakyi,161.0,70.0,19.0,MALE,51.0,M,363,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,367447,Benjamin Arthur,174.0,74.0,19.0,MALE,43.0,D,337,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,367550,Bastien Meupiyou,174.0,75.0,18.0,MALE,33.0,D,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,368317,Josh Acheampong,163.0,72.0,18.0,MALE,34.0,D,363,0,0,2,0,2,0,1,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,368547,Ethan Wheatley,168.0,74.0,19.0,MALE,36.0,F,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,368826,Julian Eyestone,214.0,78.0,18.0,MALE,99.0,G,337,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Chelsea,144992,ffeeee,368864,Tyrique George,163.0,71.0,19.0,MALE,32.0,F,363,0,0,1,0,2,1,0,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,369870,Ben Broggio,163.0,71.0,18.0,MALE,79.0,M,362,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,369884,Jack Moorhouse,152.0,72.0,19.0,MALE,64.0,M,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,371578,Yang Min-Hyeok,137.0,68.0,18.0,MALE,47.0,F,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,372016,Callum Olusesi,141.0,69.0,17.0,MALE,64.0,M,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester City,99c5ea,e6ff00,372017,Spike Brits,0.0,75.0,17.0,MALE,80.0,G,382,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Nottingham Forest,c8102e,132257,372025,Eric Da Silva Moreira,181.0,72.0,18.0,MALE,17.0,F,393,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,372068,Sékou Koné,141.0,69.0,19.0,MALE,42.0,M,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Liverpool,d11317,132257,373758,Amara Nallo,159.0,73.0,18.0,MALE,65.0,D,364,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brighton & Hove Albion,0606fa,ffdd00,374056,Joe Knight,0.0,65.0,19.0,MALE,57.0,M,331,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,374126,Wesley Okoduwa,148.0,69.0,16.0,MALE,61.0,D,380,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,375738,Chido Obi,150.0,74.0,17.0,MALE,56.0,F,360,0,0,0,0,1,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Wolverhampton Wanderers,fdb913,cd1937,376489,Pedro Lima,150.0,69.0,18.0,MALE,37.0,D,380,0,0,0,0,2,1,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Aston Villa,660e36,ffffff,377820,Jamaldeen Jimoh,157.0,72.0,18.0,MALE,56.0,M,362,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,378457,Ismeal Kabia,152.0,69.0,19.0,MALE,46.0,F,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Everton,0606fa,132257,378458,Harrison Armstrong,152.0,73.0,18.0,MALE,28.0,M,368,0,0,1,0,3,2,2,1,0
+12654,2024,2024-25 English Premier League,700,Premier League,West Ham United,7c2c3b,000000,380182,Ezra Mayers,0.0,72.0,18.0,MALE,63.0,D,371,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,380658,Billy Blacker,0.0,0.0,18.0,MALE,41.0,F,398,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Crystal Palace,0202fb,ffdd00,380716,Asher Agbinone,150.0,70.0,19.0,MALE,28.0,M,384,0,0,1,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Luton Town,ff4f00,1D428A,383168,Christian Chigozie,161.0,73.0,17.0,MALE,40.0,D,301,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Sheffield United,f42727,1D428A,384109,Owen Hampson,0.0,0.0,20.0,MALE,37.0,M,398,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,386200,Maeson King,0.0,0.0,19.0,MALE,74.0,D,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Brentford,f42727,f8ced9,387787,Tony Yogane,150.0,70.0,19.0,MALE,30.0,M,337,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Arsenal,e20520,132257,390095,Jack Porter,163.0,74.0,16.0,MALE,92.0,G,359,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Southampton,ED1A3B,f1ee13,390476,Joseph O'Brien-Whitmarsh,161.0,68.0,19.0,MALE,43.0,M,376,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Manchester United,da020e,144992,393747,Godwill Kukonki,185.0,77.0,16.0,MALE,87.0,D,360,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,395939,Luca Williams-Barnett,0.0,69.0,16.0,MALE,78.0,F,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,Tottenham Hotspur,ffffff,9bafd8,396748,Malachi Hardy,172.0,74.0,16.0,MALE,79.0,D,367,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,397213,Ben Winterburn,163.0,73.0,20.0,MALE,47.0,M,349,0,0,0,0,2,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,398103,Archie Harris,126.0,65.0,20.0,MALE,50.0,D,349,0,0,0,0,0,0,0,0,0
+12654,2024,2024-25 English Premier League,700,Premier League,AFC Bournemouth,f42727,ffffff,398123,Remy Rees-Dottin,168.0,69.0,18.0,MALE,51.0,F,349,0,0,0,0,1,0,0,0,0

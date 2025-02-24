@@ -1,0 +1,34 @@
+-- database: ./football.db
+
+SELECT f.date as game_date,
+    t.name as team_name,
+    l.leagueShortName AS league,
+    f.homeTeamId,
+    ts.teamId,
+    f.homeTeamWinner as win_at_home,
+    f.homeTeamScore as home_team_score,
+    f.awayTeamScore as away_team_score,
+    f.attendance,
+    ts.penaltyKickGoals as penalty_goals,
+    ts.penaltyKickShots as penalty_shots,
+    ts.totalShots as total_shots,
+    ts.shotsOnTarget as shots_on_target,
+    ts.possessionPct as possesion_percentage,
+    ts.totalPasses as total_passes,
+    ts.accuratePasses as accurate_passes,
+    ts.totalCrosses as total_crosses,
+    ts.accurateCrosses as accurate_crosses,
+    ts.wonCorners as corners_won,
+    ts.offsides,
+    ts.saves,
+    ts.totalTackles as total_tackles,
+    ts.foulsCommitted as fould_committed,
+    ts.yellowCards as yellow_cards,
+    ts.redCards as red_cards,
+    t.color,
+    t.alternateColor as alt_color
+FROM fixtures as f
+JOIN teamstats as ts ON f.eventId = ts.eventId
+JOIN teams as t ON ts.teamId = t.teamId
+JOIN leagues as l ON f.leagueId = l.leagueId
+WHERE ts.teamId = f.homeTeamId
