@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
+# adjusting the x and y positions to fit new pitch based on EPL standard 105m by 68m
 def fit_coords(df, xpos, ypos, newxpos='xc', newypos='yc', width=68, length=105):
     df = df.copy()  # Avoid modifying original DataFrame
     
@@ -20,17 +20,23 @@ def clock_obj_int(clock):
         return int(clock.replace("'", ""))  
     
 
-# def sorting_plays(event):
-#     words = event.lower().split(' ')
-#     if any(word in words for word in ['shot', 'goal']):
-#         return 1
-#     else:
-#         return 0
-
-
-def sorting_plays(event, word1='shot', word2='goal', word3='scored'):
+# sorting plays based on common words in the event column. 
+# set to sorting for all shots
+def sorting_plays(event, word1='shot', word2='goal', word3='scored', word4='header', word5='volley', word6='penalty', word7='free kick'):
     words = event.lower().split(' ')
-    if word1 in words or word2 in words or word3 in words:
+    if word1 in words or word2 in words or word3 in words or word4 in words or word5 in words or word6 in words or word7 in words:
         return 1
     else:
         return 0
+    
+    
+# sorting playtypes and creating new columns 
+def sorting_playtype(event, playtype):
+    if event == playtype:
+        return 1
+    else:
+        return 0
+    
+
+
+
