@@ -8,18 +8,12 @@ A usual EPL season last from August to May of the next year. This analysis is lo
 
 Figure 1. EPL standings posted on February 20th. The current top 5 teams are Liverpool, Arsenal, Nottingham Forest, Manchester City, and AFC Bournemouth.
 ## 2. Research question
-The general question to be answered is when should one predict a player to score. 
+The general question to be answered is when and where are goals happening. 
 This will be looked at through multiple steps:
 1. What other numerical features in the data correlate to goal scoring?
 2. At what time in the game have most goals happened?
 3. Where in the field do most players score from?
-
-### Questions to Keep in mind:
-1. Analysis of home vs away team scores
-2. How do top teams or players compare to overall statistics?
-3. What other events in the match are relevant?
-4. Corners that end in goal?
-5. Markers for shots vs goals scored
+4. Any other factors that contribute to goal scoring or that could enhace goal scoring?
 
 
 ## 3. Describe source of data
@@ -59,7 +53,7 @@ Narrowing down the focus of this research, different csv files were compiled int
 ![alt text](img/dB_diagram.png)
 
 Figure 2. Image of how the database would look like for all the files gathered from Kaggle's ESPN soccer data.
-##### Highlighted in yellow are the tables that were extracted using SQLite3 Editor on VSC. Highlighted in red are the primary keys that were used to JOIN the desired tables along with their respective columns (green dots). Query utilized is saved in the references folder as match_player_plays_sqlite3-query.
+##### Highlighted in yellow are the tables that were extracted using SQLite3 Editor on VSC. Highlighted in red are the primary keys that were used to JOIN the desired tables along with their respective columns (green dots). Query utilized is saved in the references folder as match_player_plays_sqlite3-query. Datasets colected are saved in the sorted folder under data. 
 
 ### Parsing game_date column and creating additional columns
 #### It was necessary to change the game_date column to the datetime data type to further create the columns:
@@ -81,14 +75,14 @@ Figure 2. Image of how the database would look like for all the files gathered f
 ### Install mpl soccer and adjust the x and y positions to fit the coordinates of a standard 105 by 68 meter pitch
 * EPL pitch sizes will be used later for the analysis so it would be best to fit our data now on two new columns: xtimes105 and ytimes68 for the respective fieldpositionX and fieldPositionY features.
 
-### Identify play_types and create new columns of the type of plays that involve goal scoring
-##### The new columns created, identified by their playtype_id are:
-* 70 is a goal, regular shot in freeplay, not own goal
-* 137 is a goal with a header
-* 98 is a goal from a penalty
-* 173 is a goal from a volley
-* 97 is an own goal
-* 138 is a goal from a free kick
+### Identify different playtype_id and create new columns of the type of plays that involve goal scoring
+##### The new columns created, identified by their playtype_id and new column name are:
+* playtype_id: 70 ==> pure_goal
+* playtype_id: 137 ==> header_goal
+* playtype_id: 98 ==> penalty_goal
+* playtype_id: 173 ==> volley_goal
+* playtype_id: 97 ==> own_goal
+* playtype_id: 138 ==> free_kick_goal
 
 ## 5. Key insights
 
@@ -102,7 +96,7 @@ Figure 3. The most relevant correlation values found in the data
 ![alt text](img/goal_dist_perc.png)
 
 Figure 4. Goal Percentage Distribution per minute match among EPL matches during the 2024-25 season
-#### Looking at Figure 4, the graph experiences a fairlly normal distribution without much skewness. There does not seem to be any extreme irregularities to show a more predictable minute to score. The KDE line does show the probability of values across the match, where the highest peaks represents the modes of the data or highest probabilities of scoring.
+#### Looking at Figure 4, the graph experiences a fairlly normal distribution without much skewness. There does not seem to be any extreme irregularities to show a more predictable minute to score. The KDE line does show the probability of values across the match, with some high peaks around the 30 minute mark of the first half, and the 57 minute mark of the second half. There is an individual highest peak of the histogram at the 87th minute mark that accounts for 2.2% of the goals.
 
 
 ### Most Likely Position to Score
@@ -115,7 +109,7 @@ Figure 5. Scatterplot of shots and goals scored, where goals scored are shown as
 ![alt text](img/kde_goals_concentration.png)
 
 Figure 6. KDE plot showing the density of goals scored
-#### The KDE plot confirms our inference on goals scored in the 63-72min of the match. High goal scoring concentrations are mostly high between the penalty box and the 30meter mark. Overtime does seem to show a smaller range, high concentration aroud the penalty shot mark up to the 25 meter mark. The assumption would be that defending teams are defending tight by the goalkeeper, and attacking teams are not taking as many risks shooting from far. Also, noting that goal concentration seems to be opening up around the start of the second half up until the 63min interval where it begins to narrow again, likewise at the 27-36min interval. 
+#### The KDE plot confirms our inference on goals scored in the 63-72min of the match. High goal scoring concentrations are mostly high between the penalty box and the 30m mark. Overtime does seem to show a smaller range, high concentration aroud the penalty shot mark up to the 25m mark. The assumption would be that defending teams are defending tight by the goalkeeper, and attacking teams are not taking as many risks shooting from far. Also, noting that goal concentration seems to be opening up around the start of the second half up until the 63min interval where it begins to narrow again, likewise at the 27-36min interval. 
 
  
 
@@ -130,10 +124,21 @@ Figure 7. Scatterplot showing the different types of plays and the goals that we
 ![alt text](img/heatmap_shots_vs_goals.png)
 
 Figure 8. Heatmap comparing shots that were not converted into goals (shots off target and shots on target) along with headers that were converted into goals against goals scored.
-#### Both shots off target and shots on target signal to the highest percentage being in the middle (20-40m on the x-axis), meaning that most shots coming from this position did not end up in goals. Goals scored show that most goals have been scored right inside the middle of the penalty box (0-20m from the x-axis) as it is the easiest place on the field to tap the ball and score. An interesting finding is that while most headers were scored in the middle of the penalty box, 33% of headers were scored near the first post on the right side of the attacking team; likewise the fewest number of shots that were not converted into goals were taken from the same position. Looking at the goals scored, we see that 21% of goals are scored in that same position, not a small number and should not go unnoticed. Taking more shots closer to the near post on the right side of the attacking team has prospects to open up a lot of goal scoring opportunities. 
+#### Both shots off target and shots on target signal to the highest percentage being in the middle (20-40m on the x-axis), meaning that most shots coming from this position did not end up in goals. Goals scored show that most goals have been scored right inside the middle of the penalty box (0-20m from the x-axis) as it is the easiest place on the field to tap the ball and score. An interesting finding is that while most headers were scored in the middle of the penalty box, 33% of headers were scored near the first post on the right side of the attacking team; likewise only 11% of shots on target and 8% of blocked shots were taken from this position. Looking at the goals scored, we see that 21% of goals are scored in that same position, not a small number and should not go unnoticed. Coaches need to train their players to test the goalies more from this position. 
+
+
+## Final Thoughts
+
+The KDE plot showed a more spread out pattern of goals on the 27-36min mark and the 45-63min mark, which happen to include the peaks from the distribution plot. This could lead to the assumption that a higher frequency of goals are happening when players are willing to take chances from areas just outside the penalty box.
+The last graph showed us the opportunities that open up on those right wings. Needless to say this falls the most on the feet of those right wingers, or possibly even more those left footer right wingers who are used to go high, come inside and score goals.
 
 
 
 ## Future Recommendation/Areas of Study
-* Perform the same analysis on other leagues to see if patterns differ from this one. The ESPN databse has access to all other leagues and the SQL query can be modified to get their data imported isntead of EPL.
-* It might be possible to adjust the query to gather play by play data of players in the same team. This could help analyze passing and position patterns of each team. 
+* Perform the same analysis on other leagues to see if patterns differ from this one. The ESPN databse has access to all other leagues and the SQL query can be modified to get their data imported instead of EPL.
+* Look at the home and away wins based on type of shots, shot positions, and goals scored. Might need to gather additional features from the database. 
+* It might be possible to adjust the query to gather play by play data of players in the same team. This could help analyze passing and position patterns of each team.
+* Since there was a high correlation between home_team_won and home_team_score, regression models could be made to analyze how many goals home teams usually get when they win (predictive analysis)
+* The positions identified as 2X and 2Y also had high correlation with other features, so identifying what these features are might be helpful (assumption is that they could be positions on the goal)
+* Two other datasets are also foud in the sorted folder that might be useful to analyze: one has player stats throughout the whole year and the other has team stats per match (less rows in this dataset).
+
