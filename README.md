@@ -5,6 +5,7 @@ A usual EPL season last from August to May of the next year. This analysis is lo
 
 ### Current EPL Standings on February 20th, 2025
 ![alt text](img/20_feb_pltable.png) 
+
 Figure 1. EPL standings posted on February 20th. The current top 5 teams are Liverpool, Arsenal, Nottingham Forest, Manchester City, and AFC Bournemouth.
 ## 2. Research question
 The general question to be answered is when should one predict a player to score. 
@@ -29,7 +30,7 @@ This dataset contains detailed soccer match data in 2024-2025 season, compiled f
 
 Narrowing down the focus of this research, different csv files were compiled into a single file that looks at all the EPL matches played on the 2024-25 season from 2024-08-16 to 2025-02-21
 
-The columns include: 
+### The columns include: 
 * match_id = a specific 5 digit id that identifies the match played
 * game_date = year, month, day, and hour the match started [British Summer Time (BST)]
 * team_name = Name identified to one of the 20 current EPL teams
@@ -56,6 +57,7 @@ The columns include:
 ## 4. Describe how you cleaned and transformed data
 ### Searching through the Databse
 ![alt text](img/dB_diagram.png)
+
 Figure 2. Image of how the database would look like for all the files gathered from Kaggle's ESPN soccer data.
 ##### Highlighted in yellow are the tables that were extracted using SQLite3 Editor on VSC. Highlighted in red are the primary keys that were used to JOIN the desired tables along with their respective columns (green dots). Query utilized is saved in the references folder as match_player_plays_sqlite3-query.
 
@@ -79,26 +81,26 @@ Figure 2. Image of how the database would look like for all the files gathered f
 
 ## 5. Key insights
 
-What visualizations do we need to understand your topic?
-Show objective specific visualization(s)
-What visualizations display your results
-Tell us what (if anything) you recommend
-
 ### Features Affecting Goal Scoring
 ![alt text](img/scoring_heatmap.png)
-Figure 3. It shows the most relevant correlation values found in the data
-#### There does not seem to be any relevant correlations between match time and goal_scoring.
-#### High correlations do appear for field positions, shots, and goals scored which will the focus of the analysis. 
+
+Figure 3. The most relevant correlation values found in the data
+#### There does not seem to be any relevant correlations between match time and goal_scoring. High correlations do appear for field positions, shots, and goals scored which will the focus of the analysis. 
 
 ### Most Likely Minute to Score
 ![alt text](img/goal_dist_perc.png)
+
 Figure 4. Goal Percentage Distribution per minute match among EPL matches during the 2024-25 season
 #### Looking at Figure 4, the graph experiences a fairlly normal distribution without much skewness. There does not seem to be any extreme irregularities to show a more predictable minute to score. The KDE line does show the probability of values across the match, where the highest peaks represents the modes of the data or highest probabilities of scoring.
 
+##
 
 ### Most Likely Position to Score
 ![alt text](img/scatter_goal_teams.png)
 
+Figure 5. Scatterplot of the goal distribution among all EPL teams subdivided into 9 minute intervals (extra time and overtime are on their own charts as well).
+
+#### Looking at the figure 5, the most important time bins to look at are the 36-45m, 63-72m, and extra time and over time. Both the 36-45m and 63-72m show that goals become more spread out, assuming that players were more successful at scoring goals from more difficult positions that are both far and spread out on the wings. The extra time shows very few goals, while over time shows a similar patterns and number of goals than any other regular time bin. One could assume that this is because the length and frequency of overtime tends to be much higher than extra time. 
 
 ### Identifying the Types of Plays to Determine Which Plays are Correlated with Opportunities
 
