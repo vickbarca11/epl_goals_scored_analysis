@@ -1,0 +1,35 @@
+-- database: ./football.db
+
+
+SELECT f.eventId as match_id,
+        f.date as game_date,
+        t.name as team_name,
+        t.abbreviation as team_abb,
+        t.teamId as team_id,
+        f.homeTeamId as home_team_id,
+        f.awayTeamId as away_team_id,
+        f.homeTeamWinner as home_team_won,
+        f.homeTeamScore as home_team_score,
+        f.awayTeamScore as away_team_score,
+        f.attendance,
+        epp.period,
+        epp.playOrder as play_order,
+        epp.clockDisplayValue as clock,
+        epp.clockValue as seconds,
+        epp.participant as player,
+        epp.playId as play_id,
+        epk.playId as key_play_id,
+        epp.typeId playtype_id,
+        epp.shortText as events,
+        epk.scoringPlay as goal_scored,
+        epp.fieldpositionX,
+        epp.fieldPositionY,
+        epp.fieldPosition2X,
+        epp.fieldPosition2Y
+
+FROM fixtures as f
+JOIN lig_plays as epp ON f.eventId = epp.eventId
+JOIN teams as t ON epp.teamId = t.teamId
+LEFT JOIN lig_key_events as epk ON epp.playId = epk.playId
+GROUP BY epp.clockDisplayValue, game_date, team_name, match_id
+ORDER BY match_id, epp.period
